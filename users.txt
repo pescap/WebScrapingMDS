@@ -2,4 +2,9 @@ CarlosZuritaEstolaza
 chogol
 danyrubiano
 JoseAlexanderCL
+<<<<<<< Updated upstream
 pescap
+=======
+pescap
+kevim ulloa
+>>>>>>> Stashed changes
