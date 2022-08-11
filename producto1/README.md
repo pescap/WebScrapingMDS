@@ -1,3 +1,1 @@
-bs4
-selenium
-xlrd
+# Scraper de prueba
