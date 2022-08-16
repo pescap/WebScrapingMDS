@@ -1,3 +1,4 @@
-bs4
 selenium
-xlrd
+pandas
+webdriver_manager.chrome
+lxml
