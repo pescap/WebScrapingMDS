@@ -73,6 +73,6 @@ Al iniciar el programa, deberá realizar las siguientes configuraciones:
 5. Luego, para trabajar en el Git del curso deberá seleccionar la opción **To contribute to the parent Project**, y con ello tendrá configurado GitHub Desktop para Windows.
 
 
-Finalmente, cuando haga alguna modificación en la carpeta local, aparecerá en la pantalla principal de GitHub Desktop un mensaje para realizar pull.
+Finalmente, cuando haga alguna modificación en la carpeta local, aparecerá en la pantalla principal de GitHub Desktop un mensaje para realizar push.
 
 ![imagen6](https://github.com/gavalenz/proyectos/blob/main/docs/imagenes/imagen6.png?raw=true)
