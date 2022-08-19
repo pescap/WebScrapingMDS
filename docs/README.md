@@ -76,3 +76,16 @@ Al iniciar el programa, deberá realizar las siguientes configuraciones:
 Finalmente, cuando haga alguna modificación en la carpeta local, aparecerá en la pantalla principal de GitHub Desktop un mensaje para realizar push.
 
 ![imagen6](https://github.com/gavalenz/proyectos/blob/main/docs/imagenes/imagen6.png?raw=true)
+
+## Jupyter Lab + GitHub
+
+- Requiere tener instalado GitHub Desktop en el equipo y descargados los repositorios
+- Descargar Jupyter Lab desde el siguiente link:  [Descarga Aquí](https://jupyter.org/)
+- Instalar en el equipo
+- Abrir Jupyter Lab
+    - Ir a File / Open from Path
+    - Seleccionar la carpeta que aloja el repositorio de GitHub
+    - Dar aceptar
+
+
+Ahora tenemos disponible para modificar todos los archivos de nuestro repositorio de GitHub. Para hacer los commit y push, se sigue usando GitHub Desktop :)
