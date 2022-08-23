@@ -58,6 +58,7 @@ while run:
                 ignore_index=True,
             )
     issue += 1
+    print(df)
 
 
 df.to_csv("issues.csv", index=False)
