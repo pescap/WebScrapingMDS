@@ -1,9 +1,9 @@
 # WebScrapingMDS
 Proyectos del curso de Web Scraping del MDS UAI 2022
 
-Work in Progress
+* producto1: Recuperación de la cantidad de lluvia en Quinta Normal cada mes. 
 
-Hola!
+Hola a todos!
 
 ## 📝Evaluación Curso
 
@@ -14,4 +14,5 @@ Hola!
     * Presentación Final (15%)
 
 * 🗣Participación Individual (15%)
+
 
