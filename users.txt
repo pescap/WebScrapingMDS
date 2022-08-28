@@ -9,6 +9,7 @@ JoseAlexanderCL
 josemoragonzalez
 kevim ulloa
 rbrunaduran
+<<<<<<< HEAD
 fsutterc
 iggypoprl
 caspoerer
@@ -27,3 +28,6 @@ dnavia
 ronaldchester
 fguaico
 rvillagra83
+=======
+jwilenmann
+>>>>>>> e086fbbb475a9ff0c1e4266195b9b52f03bb3243
