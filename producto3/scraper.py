@@ -1,6 +1,5 @@
 from bs4 import BeautifulSoup
 import pandas as pd
-import re
 import requests
 
 # número de issue
@@ -59,6 +58,7 @@ while run:
                 ignore_index=True,
             )
     issue += 1
+    print(df)
 
 
 df.to_csv("issues.csv", index=False)
