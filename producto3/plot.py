@@ -13,7 +13,6 @@ assignee_count = assignee_count.drop("No one assigned")
 
 
 concat = pd.concat([issue_count, assignee_count])
-concat = concat.clip(upper=7)
 
 test = pd.DataFrame(columns=["user", "nota"])
 test["user"] = concat.index
@@ -21,9 +20,11 @@ test["nota"] = concat.values
 
 plt.figure(figsize=(16, 8))
 nota = test.groupby(["user"])["nota"].sum().sort_values() + 1
+nota = nota.clip(upper=7)
+
 nota.plot(kind="barh")
 plt.xlabel("Nota")
 
 
 plt.show(block=False)
-plt.savefig("issues.pdf")
+plt.savefig("issues.png")
