@@ -20,7 +20,7 @@ jobs:
 
       - name: Install Python dependencies and run the code
         run: |
-            cd producto3
+            cd producto88
             pip install -r requirements.txt
             python scraper.py
       - name: Commit data files
