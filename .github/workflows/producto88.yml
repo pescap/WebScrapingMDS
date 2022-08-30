@@ -1,9 +1,9 @@
 # This is a basic workflow to help you get started with Actions
 
-name: producto3
+name: producto88
 on:
   schedule:
-  - cron: "0 1 * * *"
+  - cron: "0 0 1 * *"
   workflow_dispatch:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
@@ -23,7 +23,6 @@ jobs:
             cd producto3
             pip install -r requirements.txt
             python scraper.py
-            python plot.py
       - name: Commit data files
         run: |
           pwd
@@ -31,7 +30,7 @@ jobs:
           git config --local user.name "GitHub Action"
           git status
           git add -A
-          git commit -a -m "Added new date for producto3" || echo "Nothing to commit"
+          git commit -a -m "Added new date for producto88" || echo "Nothing to commit"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
