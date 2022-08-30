@@ -16,7 +16,7 @@ chart_productos = st.container()
 
 # lectura de datos
 cwd = os.getcwd()
-archivo = Path(cwd+'/output/df_final.csv')
+archivo = Path(__file__).parents[0] / 'output/df_final.csv'
 dffinal = pd.read_csv(archivo)
 
 #Header
