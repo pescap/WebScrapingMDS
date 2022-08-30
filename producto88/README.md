@@ -19,10 +19,15 @@ Generar visualizaciones públicas de actualización mensual usando streamlit.
 - requirements.tx: agregar las librerías que se usan para el proyecto
 - scraper.py: código fuente del scraper
 - plot.py: opcional: sirve si quieren agregar un análisis de datos, unos plots
-
+- streamlit.py: código para levantar una aplicación gráfica en la plataforma cloud Streamlit
+  
 docs:
 - docs.pdf: los slides de la pre-presentación (y luego presentación final)
 
 output:
 
 Los resultados del scraper en formato .csv
+
+## Resultados
+
+Para ver los resultados del scraper convertido en una panel de visualización haz clic en este [enlace en línea](https://josemoragonzalez-webscrapingmds-producto88streamlit-t3mflb.streamlitapp.com/)
