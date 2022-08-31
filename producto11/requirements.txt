@@ -1,1 +1,9 @@
-Acá se detallan todos los requerimientos de la app
+numpy
+pandas
+tabulate
+re
+time
+selenium
+bs4
+matplotlib
+warnings
