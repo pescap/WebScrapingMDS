@@ -40,4 +40,4 @@ plt.xlabel("Nota")
 plt.show(block=False)
 
 # Guardar la imagen final con las notas de los usuarios
-plt.savefig("issues.png")
+plt.savefig("output/issues.png")
