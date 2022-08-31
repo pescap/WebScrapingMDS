@@ -65,5 +65,4 @@ while run:
             )
     issue += 1
 
-#df.to_csv("issues.csv", index=False)
 df.to_csv(name, index=False)
