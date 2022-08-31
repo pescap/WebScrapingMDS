@@ -3,7 +3,11 @@ import pandas as pd
 from matplotlib import pyplot as plt
 
 # Importar los resultados
-df = pd.read_csv("issues.csv")
+
+fecha = date.today().strftime("%d-%m-%y")
+name = "output/" + fecha + ".csv"
+
+df = pd.read_csv(name)
 
 # Creadores de issues
 issue_count = df.author.value_counts()

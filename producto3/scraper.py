@@ -1,6 +1,12 @@
 from bs4 import BeautifulSoup
 import pandas as pd
 import requests
+from datetime import date
+
+# fecha y nombre del archivo
+
+fecha = date.today().strftime("%d-%m-%y")
+name = "output/" + fecha + ".csv"
 
 # número de issue
 
@@ -61,4 +67,5 @@ while run:
     print(df)
 
 
-df.to_csv("issues.csv", index=False)
+#df.to_csv("issues.csv", index=False)
+df.to_csv(name, index=False)
