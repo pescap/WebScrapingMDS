@@ -62,6 +62,7 @@ issue,author,state,assignees
 75,pescap,open,No one assigned
 76,pescap,closed,cechiang
 76,pescap,closed,iggypoprl
+76,pescap,closed,Carloslugook
 77,pescap,open,No one assigned
 78,MiguelAbarzua,closed,MiguelAbarzua
 79,omaldonados,open,No one assigned
@@ -86,7 +87,7 @@ issue,author,state,assignees
 104,Davives,open,No one assigned
 106,jwilenmann,closed,josemoragonzalez
 106,jwilenmann,closed,jwilenmann
-108,Carloslugook,open,Carloslugook
+108,Carloslugook,closed,Carloslugook
 110,DavidValenzuelaP,closed,Fofiguer
 110,DavidValenzuelaP,closed,DavidValenzuelaP
 110,DavidValenzuelaP,closed,fguaico
@@ -102,3 +103,22 @@ issue,author,state,assignees
 125,figueraf,open,figueraf
 125,figueraf,open,fguaico
 126,figueraf,open,figueraf
+130,Fofiguer,open,Fofiguer
+133,rvillagra83,open,No one assigned
+134,CarlosZuritaEstolaza,open,CarlosZuritaEstolaza
+135,caspoerer,closed,dnavia
+135,caspoerer,closed,MauroBustos
+135,caspoerer,closed,caspoerer
+135,caspoerer,closed,mdepixuai
+138,JoseAlexanderCL,open,No one assigned
+139,JoseAlexanderCL,open,MauroBustos
+139,JoseAlexanderCL,open,JoseAlexanderCL
+139,JoseAlexanderCL,open,gaozh93
+143,pescap,open,No one assigned
+144,Anosmiko,open,Anosmiko
+147,fguaico,open,No one assigned
+152,rvillagra83,open,No one assigned
+153,rbrunaduran,closed,rbrunaduran
+158,CarlosZuritaEstolaza,open,No one assigned
+159,danyrubiano,open,No one assigned
+160,danyrubiano,open,No one assigned

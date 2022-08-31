@@ -11,12 +11,6 @@ import os
 import sys
 import locale
 
-
-
-
-os.environ['w2n.lang'] = 'es'
-
-
 def fill_text_field(driver, xpath, text):
     # Funcion que llena texto en un campo de la pagina
     text_input = driver.find_element(By.XPATH, xpath)
@@ -40,7 +34,6 @@ driver.get(url)
 
 driver.implicitly_wait(10)
 
-#anos = ["2015", "2016", "2017", "2018", "2019"]
 anos = ["2022"] 
 meses = ["01", "02", "03", "04", "05", "06", "07", "08"]
 
