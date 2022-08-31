@@ -25,5 +25,10 @@ MiguelAbarzua
 omaldonados
 rbrunaduran
 ronaldchester
+<<<<<<< HEAD
+fguaico
+LitzyCastro
+=======
 rvillagra83
 yerkocp28
+>>>>>>> upstream/main
