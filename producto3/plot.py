@@ -1,9 +1,14 @@
+from datetime import date
+from matplotlib import pyplot as plt
 import numpy as np
 import pandas as pd
-from matplotlib import pyplot as plt
 
 # Importar los resultados
-df = pd.read_csv("issues.csv")
+
+fecha = date.today().strftime("%d-%m-%y")
+name = "output/" + fecha + ".csv"
+
+df = pd.read_csv(name)
 
 # Creadores de issues
 issue_count = df.author.value_counts()
@@ -35,4 +40,4 @@ plt.xlabel("Nota")
 plt.show(block=False)
 
 # Guardar la imagen final con las notas de los usuarios
-plt.savefig("issues.png")
+plt.savefig("output/issues.png")
