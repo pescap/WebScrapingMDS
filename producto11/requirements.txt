@@ -1,0 +1,9 @@
+numpy
+pandas
+tabulate
+re
+time
+selenium
+bs4
+matplotlib
+warnings

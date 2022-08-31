@@ -22,8 +22,14 @@ jobs:
         run: |
             cd producto3
             pip install -r requirements.txt
+      - name: Run scraper
+        run: |
+            cd producto3
             python scraper.py
-            python plot.py
+      - name: Plot results
+        run: |
+            cd producto3
+            python plot.py          
       - name: Commit data files
         run: |
           pwd

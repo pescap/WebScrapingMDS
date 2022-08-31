@@ -13,6 +13,8 @@ FASTORG
 fguaico
 figueraf
 fsutterc
+Franciscoletelier
+gaozh93
 gavalenz
 GeorgeAdrock
 iggypoprl
@@ -20,6 +22,7 @@ JoseAlexanderCL
 josemoragonzalez
 jwilenmann
 kevimulloa
+LitzyCastro
 MauroBustos
 MiguelAbarzua
 omaldonados
@@ -27,5 +30,3 @@ rbrunaduran
 ronaldchester
 rvillagra83
 yerkocp28
-gaozh93
-
