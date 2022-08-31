@@ -5,7 +5,7 @@ La idea de este scrapper es obtener desde la página de la Comisión para el Mer
 Referencia: [https://www.cmfchile.cl/institucional/estadisticas/fm.bpr_menu.php](https://www.cmfchile.cl/institucional/estadisticas/fm.bpr_menu.php)
 
 Imagen de referencia:
-![imagen1](https://github.com/gavalenz/proyectos/blob/main/docs/imagenes/imagen3.png?raw=true)
+![imagen1](https://github.com/gavalenz/proyectos/blob/main/docs/imagenes/imagen1.jpg)
 
 
 
