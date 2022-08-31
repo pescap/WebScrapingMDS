@@ -9,7 +9,7 @@ Proyectos del curso de Web Scraping del MDS UAI 2022
 ## 📝Evaluación Curso
 
 * 💻Issues y Respuestas en Github (25%)
-![alt text](https://github.com/pescap/WebScrapingMDS/blob/main/producto3/issues.png)
+![alt text](https://github.com/pescap/WebScrapingMDS/blob/main/producto3/output/issues.png)
 
 
 * 🏁Proyecto Final (60%):
