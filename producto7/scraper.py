@@ -14,7 +14,7 @@ import locale
 
 
 os.environ['w2n.lang'] = 'es'
-locale.setlocale(locale.LC_TIME, 'es_ES')
+#locale.setlocale(locale.LC_TIME, 'es_ES')
 
 def fill_text_field(driver, xpath, text):
     # Funcion que llena texto en un campo de la pagina
@@ -38,8 +38,10 @@ driver.get(url)
 
 driver.implicitly_wait(10)
 
-anos = ["2015", "2016", "2017", "2018", "2019"]
-meses = ["01", "02", "03", "04", "05", "06", "07", "08", '09', '10', '11', '12']
+#anos = ["2015", "2016", "2017", "2018", "2019"]
+anos = ["2015"]
+#meses = ["01", "02", "03", "04", "05", "06", "07", "08", '09', '10', '11', '12']
+meses = ["01"]
 
 
 
