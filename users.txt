@@ -13,6 +13,7 @@ FASTORG
 fguaico
 figueraf
 fsutterc
+Franciscoletelier
 gavalenz
 GeorgeAdrock
 iggypoprl
@@ -20,15 +21,11 @@ JoseAlexanderCL
 josemoragonzalez
 jwilenmann
 kevimulloa
+LitzyCastro
 MauroBustos
 MiguelAbarzua
 omaldonados
 rbrunaduran
 ronaldchester
-<<<<<<< HEAD
-fguaico
-LitzyCastro
-=======
 rvillagra83
 yerkocp28
->>>>>>> upstream/main
