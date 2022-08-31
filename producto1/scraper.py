@@ -42,8 +42,8 @@ driver.get(URL)
 estacion = '330020'
 
 # Años a usar (primera linea es un scrapeo exhaustivo, para ver el funcionamiento se recomienda solo correr la segunda linea)
-#años = list(range(1990, 2022))
-años = [2021]
+años = list(range(1990, 2022))
+#años = [2021]
 for año in años:
     # Estos indices se obtienen de las opciones de la pagina, cada uno es un mes, cambiar para obtener mas meses
     for index in range(1, 2):
