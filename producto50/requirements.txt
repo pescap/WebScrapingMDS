@@ -1,0 +1,6 @@
+numpy
+bs4
+selenium
+xlrd
+request
+BeautifulSoup
