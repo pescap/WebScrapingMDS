@@ -4,6 +4,7 @@ import requests as rq
 from bs4 import BeautifulSoup as bs
 import os
 import re
+from pathlib import Path
 
 ## Datos básicos para hacer el request (url, headers)
 url = "https://aplicativos.odepa.gob.cl/avancemensual.do"
@@ -115,5 +116,6 @@ dffinal['Valor'] = dffinal['Valor'].astype(int)
 
 ## Se almacena en un csv
 cwd = os.getcwd()
-dffinal.to_csv(cwd+'\\output\\df_final.csv', index=False)
+archivo = Path(cwd + '/output/df_final.csv')
+dffinal.to_csv(archivo, index=False)
 

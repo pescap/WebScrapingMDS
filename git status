@@ -1,0 +1,1076 @@
+[33mcommit 933da3eade157ad807ddaa314e823430df88f4e2[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Litzy Castro <litzycastro@gmail.com>
+Date:   Thu Aug 25 19:04:37 2022 -0400
+
+    mi usuario agregado
+    Please enter the commit message for your changes. Lines starting
+
+[33mcommit df50ddc39294c46136af428858fa277431ef1ee3[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Litzy Castro <litzycastro@gmail.com>
+Date:   Thu Aug 25 12:47:33 2022 -0400
+
+    Create tarea1.py
+
+[33mcommit 075c63313aeefa078796e6a76074be72081d34d0[m
+Merge: c8e03c1 571e747
+Author: Litzy Castro <litzycastro@gmail.com>
+Date:   Thu Aug 25 12:28:40 2022 -0400
+
+    Merge branch 'main' of https://github.com/LitzyCastro/WebScrapingMDS
+
+[33mcommit c8e03c14acf4f16d59ecb7e4356fbee1b36914aa[m
+Author: Litzy Castro <litzycastro@gmail.com>
+Date:   Thu Aug 25 12:28:36 2022 -0400
+
+    Revert "Update README.md"
+    
+    This reverts commit 952f5eb3589fec98b993751eb792a1a6f2059f8f.
+
+[33mcommit 571e747bca1d0696a27fa56daed1d1cada8401d9[m
+Author: LitzyCastro <103580915+LitzyCastro@users.noreply.github.com>
+Date:   Tue Aug 23 21:34:37 2022 -0400
+
+    Update users.txt
+
+[33mcommit 57ddf1939d960d720ba63e530bd60acdc28b8bd2[m
+Author: pescapil <pescapil@uc.cl>
+Date:   Wed Aug 24 01:29:17 2022 +0200
+
+    Update README.md
+
+[33mcommit d0bad8c4412f47fe1e26ce7e993b3b203fd3dcd1[m
+Merge: 1ff86ea 0534eea
+Author: pescapil <pescapil@uc.cl>
+Date:   Wed Aug 24 01:20:18 2022 +0200
+
+    Merge pull request #95 from pescap/neo
+    
+    Neo
+
+[33mcommit 0534eea838849eae85f81160fbe3446ce0c08191[m[33m ([m[1;31mupstream/neo[m[33m)[m
+Author: Paul Escapil-Inchauspé <paul@MacBook-Air-de-Paul-2.local>
+Date:   Wed Aug 24 01:19:23 2022 +0200
+
+    added producto0
+
+[33mcommit 1ff86ea432d20cb752ce89f0cbd8a40c436222a1[m
+Merge: 3f99a72 267d7f7
+Author: pescapil <pescapil@uc.cl>
+Date:   Wed Aug 24 00:38:12 2022 +0200
+
+    Merge pull request #90 from figueraf/neo
+    
+    init
+
+[33mcommit 267d7f724325ac22c4b257a4e5dc38092cb3baa4[m
+Merge: 9be0414 3f99a72
+Author: pescapil <pescapil@uc.cl>
+Date:   Wed Aug 24 00:38:02 2022 +0200
+
+    Merge branch 'main' into neo
+
+[33mcommit 3f99a72448c9cde648ff0f00010ae5998914a09c[m
+Merge: ca7176b 8196690
+Author: pescapil <pescapil@uc.cl>
+Date:   Wed Aug 24 00:37:13 2022 +0200
+
+    Merge pull request #89 from fguaico/patch-1
+    
+    Update users.txt
+
+[33mcommit 8196690b677e852ff2fc15643868f0f70bf9a6d0[m
+Author: fguaico <111018165+fguaico@users.noreply.github.com>
+Date:   Tue Aug 23 17:59:50 2022 -0400
+
+    Update users.txt
+
+[33mcommit ca7176bf6ff102ff9132b9e963673d0aa0f05739[m
+Merge: 1725556 9cd5342
+Author: pescapil <pescapil@uc.cl>
+Date:   Tue Aug 23 23:38:57 2022 +0200
+
+    Merge pull request #87 from ronaldchester/main
+    
+    AgregandoUser
+
+[33mcommit 172555660f73486107d75a28101c693a017a9e4a[m
+Merge: c30eea7 b030a90
+Author: pescapil <pescapil@uc.cl>
+Date:   Tue Aug 23 17:34:43 2022 +0200
+
+    Merge pull request #84 from gavalenz/main
+    
+    Update scraper.py
+
+[33mcommit 9cd53429b56db53f69dbb420354f8dbf14715892[m
+Author: ronaldchester <110507326+ronaldchester@users.noreply.github.com>
+Date:   Tue Aug 23 11:13:34 2022 -0400
+
+    AgregandoU¿user
+
+[33mcommit b030a905974ace50d2a55dd6e7c1a0ad2df2e70c[m
+Author: Gabriel Valenzuela <110507981+gavalenz@users.noreply.github.com>
+Date:   Tue Aug 23 09:35:13 2022 -0400
+
+    Update scraper.py
+    
+    Elimina import re (no utilizado en producto)
+
+[33mcommit 7bc1e455a3c6d2b1742d42f190edb66bfb2c8a92[m
+Author: Paul Escapil-Inchauspé <paul@MacBook-Air-de-Paul-2.local>
+Date:   Tue Aug 23 14:40:12 2022 +0200
+
+    changes on issues
+
+[33mcommit c30eea7db67064542e0c08857f9f814bda906965[m
+Author: pescapil <pescapil@uc.cl>
+Date:   Tue Aug 23 14:30:33 2022 +0200
+
+    Update README.md
+
+[33mcommit a569b1f4bbe9c732573056cd40076589a635729f[m
+Merge: c90dff5 09d46b7
+Author: pescapil <pescapil@uc.cl>
+Date:   Tue Aug 23 09:00:56 2022 +0200
+
+    Merge pull request #80 from dnavia/main
+    
+    Git 101
+
+[33mcommit 9be04143950fabda7fc7636a207201cb516383d7[m
+Author: figueraf <franciscorfiguera@gmail.com>
+Date:   Mon Aug 22 20:09:53 2022 -0400
+
+    init
+
+[33mcommit 09d46b7831058d94882a1726ea63cf11f19b1d17[m
+Author: dnavia <dnaviaza@gmail.com>
+Date:   Mon Aug 22 00:50:21 2022 -0400
+
+    Test commit
+
+[33mcommit 95ecfc104d1c1ec8b57013779a5f8bf215da431f[m
+Author: dnavia <dnaviaza@gmail.com>
+Date:   Mon Aug 22 00:32:18 2022 -0400
+
+    Eliminar archivo user.txt
+
+[33mcommit b6610409336d0628836b87dcbab14daad8448674[m
+Author: dnavia <dnaviaza@gmail.com>
+Date:   Sun Aug 21 23:48:35 2022 -0400
+
+    Probando carga de archivo user
+
+[33mcommit c90dff5a9740ebeeef8b620f29564047b6ccec13[m
+Merge: 43193b7 f694ad9
+Author: pescapil <pescapil@uc.cl>
+Date:   Sun Aug 21 11:42:24 2022 +0200
+
+    Merge pull request #71 from MiguelAbarzua/patch-2
+    
+    Actualización de usuario
+
+[33mcommit f694ad94f1554815722c12602a35c17a897b0bc4[m
+Author: MiguelAbarzua <110945536+MiguelAbarzua@users.noreply.github.com>
+Date:   Sat Aug 20 23:54:39 2022 -0400
+
+    Actualización de usuario
+
+[33mcommit 43193b7cadd306840593fe0fdcdf26597015657d[m
+Merge: 0470f1f 0f935d3
+Author: pescapil <pescapil@uc.cl>
+Date:   Fri Aug 19 14:29:45 2022 +0200
+
+    Merge pull request #63 from gavalenz/main
+    
+    Actualizacion de docs con instrucciones para instalar GitHub Desktop
+
+[33mcommit 0f935d3fbb8e3628c94772d50e522a2c67136dfd[m
+Merge: 21038e4 0470f1f
+Author: pescapil <pescapil@uc.cl>
+Date:   Fri Aug 19 14:29:38 2022 +0200
+
+    Merge branch 'main' into main
+
+[33mcommit 0470f1f30e23a7cb9f3135e75be8b34e630aeed4[m
+Merge: 5216434 7968176
+Author: pescapil <pescapil@uc.cl>
+Date:   Fri Aug 19 14:28:39 2022 +0200
+
+    Merge pull request #40 from fsutterc/readme
+    
+    first commit
+
+[33mcommit 79681764398a540d1f4f4f3c1817b99a7810ed78[m
+Merge: 9e080ee 5216434
+Author: pescapil <pescapil@uc.cl>
+Date:   Fri Aug 19 14:28:28 2022 +0200
+
+    Merge branch 'main' into readme
+
+[33mcommit 9e080ee10260ae2b7d69b8091962d86d02a148d1[m
+Author: pescapil <pescapil@uc.cl>
+Date:   Fri Aug 19 14:27:37 2022 +0200
+
+    Update README.md
+
+[33mcommit 521643455a688913768ecc0a60b69c6ece198b61[m
+Merge: 0afcca3 1c0044f
+Author: pescapil <pescapil@uc.cl>
+Date:   Fri Aug 19 14:27:06 2022 +0200
+
+    Merge pull request #58 from Carloslugook/CL2
+    
+    Update users.txt
+
+[33mcommit 1c0044f03ad5cc19b596ea258e41a41e85f6e2c4[m
+Merge: d2cc763 0afcca3
+Author: pescapil <pescapil@uc.cl>
+Date:   Fri Aug 19 14:26:58 2022 +0200
+
+    Merge branch 'main' into CL2
+
+[33mcommit d2cc7638002508b1492afff36dc40cc0fb21eda3[m
+Author: pescapil <pescapil@uc.cl>
+Date:   Fri Aug 19 14:26:40 2022 +0200
+
+    Update users.txt
+
+[33mcommit 0afcca311fc7feb11944880755504e032e232039[m
+Merge: 38cb4d4 b89761b
+Author: pescapil <pescapil@uc.cl>
+Date:   Fri Aug 19 14:25:52 2022 +0200
+
+    Merge pull request #55 from CarlosZuritaEstolaza/main
+    
+    Actualización de documento
+
+[33mcommit 38cb4d4ecdfe5bb8b30e363ca72c1e45e71af314[m
+Merge: bf14af2 52f9016
+Author: pescapil <pescapil@uc.cl>
+Date:   Fri Aug 19 14:25:13 2022 +0200
+
+    Merge pull request #66 from cechiang/main
+    
+    Agregado cechiang a user.txt
+
+[33mcommit 52f901667edafc4f1e1470075251aaa91e39cae4[m
+Author: cechiang <colon.chiang@hotmail.com>
+Date:   Wed Aug 17 22:41:25 2022 -0400
+
+    Agregar cechiang a user.txt
+    
+    Agregando cechiang
+
+[33mcommit 21038e42b3d464542054ad7d55411ee69ce250a6[m
+Author: Gabriel Valenzuela <110507981+gavalenz@users.noreply.github.com>
+Date:   Wed Aug 17 13:31:43 2022 -0400
+
+    Update README.md
+
+[33mcommit 0072fe4e2b48968637b8dfc7305fd05967e774df[m
+Author: Gabriel Valenzuela <110507981+gavalenz@users.noreply.github.com>
+Date:   Wed Aug 17 13:28:59 2022 -0400
+
+    Update README.md
+    
+    Se agrega instrucciones para instalar y configurar GitHub Desktop en Windows.
+
+[33mcommit b89761b080e235427bcbcb3a994a5a588f308307[m
+Author: CarlosZuritaEstolaza <110506124+CarlosZuritaEstolaza@users.noreply.github.com>
+Date:   Wed Aug 17 13:25:32 2022 -0400
+
+    Delete scraper_01-checkpoint.ipynb
+
+[33mcommit a9a558a37eb89ce29c6b93ef7a48f07c2ca75794[m
+Author: CarlosZuritaEstolaza <110506124+CarlosZuritaEstolaza@users.noreply.github.com>
+Date:   Wed Aug 17 13:25:18 2022 -0400
+
+    Delete README-checkpoint.md
+
+[33mcommit 598a65ebee24e38e549355a00dfafdc9791e57a6[m
+Merge: 308340c 4e07e9a
+Author: CarlosZuritaEstolaza <czurita@alumnos.uai.cl>
+Date:   Tue Aug 16 21:59:55 2022 -0400
+
+    Merge branch 'main' of https://github.com/CarlosZuritaEstolaza/WebScrapingMDS
+
+[33mcommit 308340c75491e12136af68b41464a4031774db38[m
+Author: CarlosZuritaEstolaza <czurita@alumnos.uai.cl>
+Date:   Tue Aug 16 21:58:35 2022 -0400
+
+    Actualizado
+    
+    Pendiente validar cuando corresponde dar el punto
+
+[33mcommit 4e07e9a1fe36aaf660ea528d66ae220ac4d18160[m
+Merge: 63ef69e bf14af2
+Author: CarlosZuritaEstolaza <110506124+CarlosZuritaEstolaza@users.noreply.github.com>
+Date:   Tue Aug 16 21:49:18 2022 -0400
+
+    Merge branch 'pescap:main' into main
+
+[33mcommit bf14af2811360dbe4cd626ee63e3cd93dee5758e[m
+Merge: 6feb7ec be6866f
+Author: pescapil <pescapil@uc.cl>
+Date:   Wed Aug 17 03:38:22 2022 +0200
+
+    Merge pull request #41 from Anosmiko/fork
+    
+    Update users.txt
+
+[33mcommit be6866ff806640cc9e148b946b42aa5260d3e6aa[m
+Merge: d331d31 6feb7ec
+Author: pescapil <pescapil@uc.cl>
+Date:   Wed Aug 17 03:38:12 2022 +0200
+
+    Merge branch 'main' into fork
+
+[33mcommit 6feb7ec48789b6a0c69e1eaee67e8d23f6c3ab71[m
+Merge: fbebee1 b4f94e6
+Author: pescapil <pescapil@uc.cl>
+Date:   Wed Aug 17 03:36:18 2022 +0200
+
+    Merge pull request #59 from pescap/neo
+    
+    added plots
+
+[33mcommit b4f94e661c1bb50ce61c1bb0832b0850c97eb9ea[m
+Author: Paul Escapil-Inchauspé <paul@MacBook-Air-de-Paul-2.local>
+Date:   Wed Aug 17 03:35:36 2022 +0200
+
+    added plots
+
+[33mcommit 2bf7fb1d45bd4df45df19f0da03ab2a5d7d58b71[m
+Author: Carloslugook <carloslugogaleano@gmail.com>
+Date:   Tue Aug 16 21:29:58 2022 -0400
+
+    Update users.txt
+
+[33mcommit 63ef69ec4426bf088f24ed34d9a39d5bbe9d4e68[m
+Merge: e303689 fbebee1
+Author: CarlosZuritaEstolaza <110506124+CarlosZuritaEstolaza@users.noreply.github.com>
+Date:   Tue Aug 16 21:29:46 2022 -0400
+
+    Merge branch 'pescap:main' into main
+
+[33mcommit fbebee10d9b5f23fc6dd98ce46c03d7b26a71ea8[m
+Merge: c17105d 1a4093b
+Author: pescapil <pescapil@uc.cl>
+Date:   Wed Aug 17 03:27:59 2022 +0200
+
+    Merge pull request #57 from pescap/neo
+    
+    scraper is fine
+
+[33mcommit 1a4093baf3526285f5518a8a6720c76feb3b74de[m
+Author: Paul Escapil-Inchauspé <paul@MacBook-Air-de-Paul-2.local>
+Date:   Wed Aug 17 03:27:04 2022 +0200
+
+    scraper is fine
+
+[33mcommit e303689ed07f133425c4f6d04fc03a172a30c85a[m
+Author: CarlosZuritaEstolaza <czurita@alumnos.uai.cl>
+Date:   Tue Aug 16 21:25:59 2022 -0400
+
+    scrapper
+    
+    otra version
+
+[33mcommit 7ac4aaa16da049c42ada31a63984bb39e6e4c18c[m
+Merge: a5a9c7d c17105d
+Author: CarlosZuritaEstolaza <110506124+CarlosZuritaEstolaza@users.noreply.github.com>
+Date:   Tue Aug 16 21:24:45 2022 -0400
+
+    Merge branch 'pescap:main' into main
+
+[33mcommit c17105d624a5e2d3e2b78ea76361cbc0ebd576e7[m
+Merge: 7d4dd72 3fe34e6
+Author: pescapil <pescapil@uc.cl>
+Date:   Wed Aug 17 02:22:26 2022 +0200
+
+    Merge pull request #56 from pescap/neo
+    
+    added buscar dato fixes #47
+
+[33mcommit 3fe34e653b1e1958bda7795bb41aa8b8ad999af1[m
+Author: Paul Escapil-Inchauspé <paul@MacBook-Air-de-Paul-2.local>
+Date:   Wed Aug 17 02:20:15 2022 +0200
+
+    added buscar dato
+
+[33mcommit a5a9c7d24665410193d0066fcadfbfe14ad02540[m
+Author: CarlosZuritaEstolaza <czurita@alumnos.uai.cl>
+Date:   Tue Aug 16 20:12:05 2022 -0400
+
+    Actualización de documento
+    
+    Se agrega paso a paso para integrar Jupyter Lab con GitHub
+
+[33mcommit 7d4dd723a87a11405cc336a610e733a12843d420[m
+Merge: a61da6b 3f7e525
+Author: pescapil <pescapil@uc.cl>
+Date:   Wed Aug 17 01:39:38 2022 +0200
+
+    Merge pull request #53 from pescap/david
+    
+    added DavidValenzuelaP
+
+[33mcommit 3f7e5250a0fba6158fc42bee968887debe9129b9[m
+Author: Paul Escapil-Inchauspé <paul@MacBook-Air-de-Paul-2.local>
+Date:   Wed Aug 17 01:38:55 2022 +0200
+
+    added DavidValenzuelaP
+
+[33mcommit a61da6b26fabbc0262c3a278ec8612642699d843[m
+Merge: bf2aace 221b638
+Author: pescapil <pescapil@uc.cl>
+Date:   Wed Aug 17 01:37:16 2022 +0200
+
+    Merge pull request #52 from DavidValenzuelaP/patch-3
+    
+    Update users.txt
+
+[33mcommit 221b63850f4a136f45de606fdb09e06c73af3751[m
+Author: DavidValenzuelaP <110503744+DavidValenzuelaP@users.noreply.github.com>
+Date:   Tue Aug 16 19:34:29 2022 -0400
+
+    Update users.txt
+
+[33mcommit bf2aace29e950dd16bda87570f0e5a29eab14d7a[m
+Merge: 6167d13 089113c
+Author: pescapil <pescapil@uc.cl>
+Date:   Wed Aug 17 01:23:18 2022 +0200
+
+    Merge pull request #44 from yerkocp28/patch-1
+    
+    Update users.txt
+
+[33mcommit 089113c1d781089351ddeed0feb28498829cb49b[m
+Merge: 75dd2ae 6167d13
+Author: pescapil <pescapil@uc.cl>
+Date:   Wed Aug 17 01:23:12 2022 +0200
+
+    Merge branch 'main' into patch-1
+
+[33mcommit 6167d132789e6de31d9cea12ac1ae8503a17727c[m
+Merge: a540ce3 7640885
+Author: pescapil <pescapil@uc.cl>
+Date:   Wed Aug 17 01:22:49 2022 +0200
+
+    Merge pull request #49 from omaldonados/patch-1
+    
+    Update users.txt
+
+[33mcommit 76408856cb1c4c1bc2ab485c221cb72e07a2ce07[m
+Merge: d5a4e8f a540ce3
+Author: pescapil <pescapil@uc.cl>
+Date:   Wed Aug 17 01:22:40 2022 +0200
+
+    Merge branch 'main' into patch-1
+
+[33mcommit 75dd2aedd6ce336bd1667feb3a7e94a12563a65c[m
+Merge: c3f2ef6 a540ce3
+Author: pescapil <pescapil@uc.cl>
+Date:   Wed Aug 17 01:22:19 2022 +0200
+
+    Merge branch 'main' into patch-1
+
+[33mcommit a540ce3baa6e3846c34967953f31411edf370a67[m
+Merge: 601f073 8c110f1
+Author: pescapil <pescapil@uc.cl>
+Date:   Wed Aug 17 01:21:42 2022 +0200
+
+    Merge pull request #42 from MauroBustos/MauroBustos-patch-1
+    
+    Agrego usuario
+
+[33mcommit 601f07329725679df45ee1dd245b2261edee3c14[m
+Merge: b005ef7 90e16bf
+Author: pescapil <pescapil@uc.cl>
+Date:   Wed Aug 17 01:20:38 2022 +0200
+
+    Merge pull request #38 from jwilenmann/patch-1
+    
+    Update users.txt
+
+[33mcommit 90e16bfca1a3235f955d69b5132b07287a33c600[m
+Merge: c42f2c8 b005ef7
+Author: pescapil <pescapil@uc.cl>
+Date:   Wed Aug 17 01:20:31 2022 +0200
+
+    Merge branch 'main' into patch-1
+
+[33mcommit b005ef7109d4fe4c2b3df803c3748ea017d7fc5e[m
+Merge: cc2fd5f 64a3399
+Author: pescapil <pescapil@uc.cl>
+Date:   Wed Aug 17 01:16:33 2022 +0200
+
+    Merge pull request #51 from pescap/buscardato
+    
+    added producto3
+
+[33mcommit 64a33994e48b9d3215e3ae4df8b663e7115d3a90[m
+Author: Paul Escapil-Inchauspé <paul@MacBook-Air-de-Paul-2.local>
+Date:   Wed Aug 17 01:16:06 2022 +0200
+
+    added producto3
+
+[33mcommit d5a4e8ff014bae7200cc4a7b7788529036b7fc17[m
+Author: omaldonados <84360413+omaldonados@users.noreply.github.com>
+Date:   Tue Aug 16 18:47:23 2022 -0400
+
+    Update users.txt
+
+[33mcommit cc2fd5fb9b0b2fd61b7863bc71f740174f43ee42[m
+Merge: 193e4a3 f24e6e8
+Author: pescapil <pescapil@uc.cl>
+Date:   Wed Aug 17 00:35:18 2022 +0200
+
+    Merge pull request #37 from GeorgeAdrock/patch-2
+    
+    Update users.txt
+
+[33mcommit f24e6e8b3079803ea7492ffc3ce78165834056c0[m
+Merge: 107dda2 193e4a3
+Author: pescapil <pescapil@uc.cl>
+Date:   Wed Aug 17 00:26:23 2022 +0200
+
+    Merge branch 'main' into patch-2
+
+[33mcommit c3f2ef68187fa3d5ee11d38cc336b216847e0e58[m
+Author: yerkocp28 <44038905+yerkocp28@users.noreply.github.com>
+Date:   Tue Aug 16 18:22:39 2022 -0400
+
+    Update users.txt
+
+[33mcommit 8c110f1743ae4ab824b6b9980117e903787c10d6[m
+Author: Mauricio Bustos <mauriciobustos@me.com>
+Date:   Tue Aug 16 18:15:33 2022 -0400
+
+    Agrego usuario
+
+[33mcommit d331d315f151cd76455ae5eb46edbd6f43c6881a[m
+Author: NC <psi.nicolas.coddou@gmail.com>
+Date:   Tue Aug 16 18:13:14 2022 -0400
+
+    Update users.txt
+    
+    Se agrega nombre de usuario
+
+[33mcommit bfafe1d1158909a79d19b373e94e6186a1c2ba0c[m
+Merge: f463436 193e4a3
+Author: fsutterc <110936662+fsutterc@users.noreply.github.com>
+Date:   Tue Aug 16 18:01:38 2022 -0400
+
+    Merge branch 'main' into readme
+
+[33mcommit f463436c7f1b561d5ba5bc3fa3f44dd7c28a819b[m
+Author: fsutterc <fsutterc@gmail.com>
+Date:   Tue Aug 16 17:58:56 2022 -0400
+
+    add name to users
+
+[33mcommit 193e4a3bcfa3fc9f6319049df1bf760326d8a4ac[m
+Merge: fcf53c4 ab4c8cc
+Author: pescapil <pescapil@uc.cl>
+Date:   Tue Aug 16 23:57:42 2022 +0200
+
+    Merge pull request #36 from iggypoprl/users
+    
+    update users
+
+[33mcommit ab4c8cc277fe40b5b44e990cfb57165d4691e0d5[m
+Merge: 644b727 fcf53c4
+Author: pescapil <pescapil@uc.cl>
+Date:   Tue Aug 16 23:57:32 2022 +0200
+
+    Merge branch 'main' into users
+
+[33mcommit fd8b672ad8b5424f30263701cab7782fd1a0273e[m
+Author: fsutterc <fsutterc@gmail.com>
+Date:   Tue Aug 16 17:55:33 2022 -0400
+
+    first commit
+
+[33mcommit fcf53c4ef597a7662828ad262997c80804e4ba4f[m
+Merge: 91bd56f 647b9f6
+Author: pescapil <pescapil@uc.cl>
+Date:   Tue Aug 16 23:55:28 2022 +0200
+
+    Merge pull request #39 from caspoerer/nuevo
+    
+    agrego usuario
+
+[33mcommit 647b9f680899f3a3203e2a13de72e4e73ad13ca4[m
+Author: Carlos Spoerer <cspoerer@Carloss-MacBook-Air.local>
+Date:   Tue Aug 16 17:13:18 2022 -0400
+
+    agrego usuario
+
+[33mcommit 644b7270dd749e7988716882526289b2662eda3c[m
+Merge: 9ae9b91 91bd56f
+Author: ignacia rodriguez <110548481+iggypoprl@users.noreply.github.com>
+Date:   Tue Aug 16 17:06:01 2022 -0400
+
+    update users
+
+[33mcommit c42f2c8829578f1c9c69f72fb2a9fcf374993bf1[m
+Author: jwilenmann <74056835+jwilenmann@users.noreply.github.com>
+Date:   Tue Aug 16 17:02:14 2022 -0400
+
+    Update users.txt
+
+[33mcommit 107dda28a19df828684d869df0e071bf2f2a65b8[m
+Author: George <jorge.araya.vergara@gmail.com>
+Date:   Tue Aug 16 16:10:17 2022 -0400
+
+    Update users.txt
+    
+    Actualizacion de Archivo, ingreso de  Usuario GitHub
+
+[33mcommit 9ae9b9114974c65623f0cc9c9c10ede8a40515b2[m
+Author: ignacia rodriguez <110548481+iggypoprl@users.noreply.github.com>
+Date:   Tue Aug 16 13:23:50 2022 -0400
+
+    update users
+
+[33mcommit 457021c6e957c4942809eb19e94288c66371f1d4[m
+Author: ignacia rodriguez <110548481+iggypoprl@users.noreply.github.com>
+Date:   Tue Aug 16 13:08:22 2022 -0400
+
+    update users
+
+[33mcommit 91bd56f19120f03ebc774a766838e64b0e3abeaf[m
+Merge: b376f1a a79d63a
+Author: pescapil <pescapil@uc.cl>
+Date:   Tue Aug 16 08:57:25 2022 +0200
+
+    Merge pull request #35 from pescap/revert-30-nuevo
+    
+    Revert "agrego equipo"
+
+[33mcommit a79d63a9da0b81d89a93058e983cd104699bc11f[m
+Author: pescapil <pescapil@uc.cl>
+Date:   Tue Aug 16 08:57:10 2022 +0200
+
+    Revert "agrego equipo"
+
+[33mcommit b376f1a973cebed61b04cdf577ff89ceed914751[m
+Merge: c2a8b0d 75d00a2
+Author: pescapil <pescapil@uc.cl>
+Date:   Tue Aug 16 08:56:18 2022 +0200
+
+    Merge pull request #30 from caspoerer/nuevo
+    
+    agrego equipo
+
+[33mcommit 75d00a24061fd0c4f1343408fab9136f9836be1c[m
+Merge: 97655de c2a8b0d
+Author: pescapil <pescapil@uc.cl>
+Date:   Tue Aug 16 08:55:51 2022 +0200
+
+    Merge branch 'main' into nuevo
+
+[33mcommit 97655de7e6954879ec2efeb4372ba9570ba0964d[m
+Author: pescapil <pescapil@uc.cl>
+Date:   Tue Aug 16 08:55:25 2022 +0200
+
+    Update users.txt
+
+[33mcommit c2a8b0d0e4d2df27013310ecd0cb513d12002547[m
+Merge: e62fec2 af52a35
+Author: pescapil <pescapil@uc.cl>
+Date:   Tue Aug 16 08:52:09 2022 +0200
+
+    Merge pull request #32 from rbrunaduran/users
+    
+    agregado rbrunaduran a users.txt
+
+[33mcommit e62fec2738ea6589781e35a7540377a6438bdd50[m
+Merge: 01642eb b55ff55
+Author: pescapil <pescapil@uc.cl>
+Date:   Tue Aug 16 08:51:57 2022 +0200
+
+    Merge pull request #31 from enriques76/patch-1
+    
+    Update users.txt
+
+[33mcommit b55ff55d5e4eb1ecc7ab7c39dfc2f7b66552ddc2[m[33m ([m[1;31mgithub-desktop-enriques76/patch-1[m[33m)[m
+Merge: 2a1e113 01642eb
+Author: pescapil <pescapil@uc.cl>
+Date:   Tue Aug 16 08:51:45 2022 +0200
+
+    Merge branch 'main' into patch-1
+
+[33mcommit 01642eb1ae2e996eb9d2e3d328b7a5e6de7c97ec[m
+Merge: 1ec71c2 72cbd0e
+Author: pescapil <pescapil@uc.cl>
+Date:   Tue Aug 16 08:50:52 2022 +0200
+
+    Merge pull request #33 from FASTORG/main
+    
+    Main
+
+[33mcommit 72cbd0e800ac96aa1fbac99e80cff426e7b00673[m
+Author: FASTORG <fjastorg@gmail.com>
+Date:   Mon Aug 15 23:30:12 2022 -0400
+
+    users.txt actualizacion
+
+[33mcommit af52a35263e49f904e587ace99f37a827d187652[m
+Author: Rodrigo Bruna <rodrigo.bruna@gmail.com>
+Date:   Mon Aug 15 19:09:52 2022 -0400
+
+    agregado rbrunaduran a usuers.txt
+
+[33mcommit ec0f727d72341b356e970cbfa7532495a9e5972a[m
+Author: Carlos Spoerer <cspoerer@Carloss-MacBook-Air.local>
+Date:   Sun Aug 14 17:30:37 2022 -0400
+
+    agrego equipo
+
+[33mcommit 1ec71c26daa33ac944ab90911e87623858fda051[m
+Author: pescapil <pescapil@uc.cl>
+Date:   Thu Aug 11 11:25:16 2022 +0200
+
+    Update README.md
+
+[33mcommit 96695aeb6b766bc1822c4a8c64532fe18868699e[m
+Author: Paul Escapil-Inchauspé <paul@MacBook-Air-de-Paul-2.local>
+Date:   Thu Aug 11 11:17:32 2022 +0200
+
+    added docs
+
+[33mcommit de31d6304c4d0156148f1b3371a9967b5a60164a[m
+Merge: b5b5878 3a2af3e
+Author: pescapil <pescapil@uc.cl>
+Date:   Thu Aug 11 11:00:23 2022 +0200
+
+    Merge pull request #18 from gavalenz/main
+    
+    Update users.txt
+
+[33mcommit 3a2af3e113dc42323f574945325ed0bf15faf176[m
+Merge: 64d3464 b5b5878
+Author: pescapil <pescapil@uc.cl>
+Date:   Thu Aug 11 11:00:11 2022 +0200
+
+    Merge branch 'main' into main
+
+[33mcommit b5b5878958da587500326c3c1631c592ebcb29a0[m
+Merge: 03fd1fe f42c9aa
+Author: pescapil <pescapil@uc.cl>
+Date:   Thu Aug 11 10:59:33 2022 +0200
+
+    Merge pull request #19 from josemoragonzalez/main
+    
+    agrega usuario José Mora
+
+[33mcommit f42c9aa8ee66efa9fb0a4463b3152b624803f70a[m
+Merge: 2257a73 03fd1fe
+Author: pescapil <pescapil@uc.cl>
+Date:   Thu Aug 11 10:59:24 2022 +0200
+
+    Merge branch 'main' into main
+
+[33mcommit 03fd1feb42159c3d54b9a1f92af24fdb0867f7d4[m
+Merge: ddc2e9d 6e0b553
+Author: pescapil <pescapil@uc.cl>
+Date:   Thu Aug 11 10:58:56 2022 +0200
+
+    Merge pull request #22 from shorokein/update-kevim
+    
+    Update users.txt
+
+[33mcommit 6e0b553d4a7b0e555ea8ae724bbdec167e8dae18[m
+Merge: 11d1be7 ddc2e9d
+Author: pescapil <pescapil@uc.cl>
+Date:   Thu Aug 11 10:58:44 2022 +0200
+
+    Merge branch 'main' into update-kevim
+
+[33mcommit ddc2e9d9bb235b80936e61cfe3662ddb87440235[m
+Merge: 4ed442f ac9ef43
+Author: pescapil <pescapil@uc.cl>
+Date:   Thu Aug 11 10:58:04 2022 +0200
+
+    Merge pull request #23 from DenisOsses/patch-2
+    
+    Update users.txt
+
+[33mcommit 4ed442f930675cc1fbd17c2b41d0e387ed02f643[m
+Merge: 785ad33 2029143
+Author: pescapil <pescapil@uc.cl>
+Date:   Thu Aug 11 10:55:26 2022 +0200
+
+    Merge pull request #26 from Davives/main
+    
+    initial commit, fixed scraper for https://climatologia.meteochile.gob…
+
+[33mcommit 2029143ab09d64c817c9b12e5b6e8ea12c18f075[m
+Author: Davives <davives@uc.cl>
+Date:   Wed Aug 10 22:44:45 2022 -0400
+
+    initial commit, fixed scraper for https://climatologia.meteochile.gob.cl/application/requerimiento/producto/RE1006
+
+[33mcommit 2a1e11368618c0bd06b7081bc40946cccff483d2[m
+Author: enriques76 <110440167+enriques76@users.noreply.github.com>
+Date:   Wed Aug 10 09:32:05 2022 -0400
+
+    Update users.txt
+
+[33mcommit ac9ef437614304b55ebfd0c4bc010bc96bb6a09e[m
+Author: Denis Osses <110506752+DenisOsses@users.noreply.github.com>
+Date:   Tue Aug 9 21:34:56 2022 -0400
+
+    Update users.txt
+
+[33mcommit 11d1be7e1d3d49af48a080ec435032a956000e64[m
+Author: shorokein <58046014+shorokein@users.noreply.github.com>
+Date:   Tue Aug 9 21:15:22 2022 -0400
+
+    Update users.txt
+
+[33mcommit 64d34649193c514173349fb8485a37c87e4db05e[m
+Merge: 7619639 785ad33
+Author: gavalenz <110507981+gavalenz@users.noreply.github.com>
+Date:   Tue Aug 9 21:05:27 2022 -0400
+
+    Merge branch 'main' into main
+
+[33mcommit 952f5eb3589fec98b993751eb792a1a6f2059f8f[m
+Author: Litzy Castro <litzycastro@gmail.com>
+Date:   Tue Aug 9 21:01:59 2022 -0400
+
+    Update README.md
+
+[33mcommit 785ad33f4e4a1ee092ce05383973c475d9ea57f9[m
+Merge: a0d7b7d 37999b1
+Author: pescapil <pescapil@uc.cl>
+Date:   Wed Aug 10 03:00:42 2022 +0200
+
+    Merge pull request #16 from chogol/main
+    
+    Agrega usuario chogol
+
+[33mcommit 37999b1386b6142304d10bab379e1407a1f149fb[m
+Merge: eb6504f a0d7b7d
+Author: pescapil <pescapil@uc.cl>
+Date:   Wed Aug 10 03:00:36 2022 +0200
+
+    Merge branch 'main' into main
+
+[33mcommit a0d7b7db8eef4bd0ce349ac464c7d1289f79941e[m
+Merge: 2def8b2 c0b8a18
+Author: pescapil <pescapil@uc.cl>
+Date:   Wed Aug 10 02:59:59 2022 +0200
+
+    Merge pull request #11 from JoseAlexanderCL/main
+    
+    agrega usuario JoseAlexanderCL
+
+[33mcommit 7619639f03c04a219eed0786217f39d64511df62[m
+Author: gavalenz <110507981+gavalenz@users.noreply.github.com>
+Date:   Tue Aug 9 20:58:20 2022 -0400
+
+    Update users.txt
+
+[33mcommit 2257a734c78c6f70a146af2930e44788d296a311[m
+Author: josemoragonzalez <josemoragonzalez@gmail.com>
+Date:   Tue Aug 9 20:56:06 2022 -0400
+
+    agrega usuario José Mora
+
+[33mcommit c0b8a18debf6eb00a2b7caa0da452c8cb80da2e8[m
+Merge: c76fde8 2def8b2
+Author: Jose Yañez <76022147+JoseAlexanderCL@users.noreply.github.com>
+Date:   Tue Aug 9 20:50:13 2022 -0400
+
+    Merge branch 'main' into main
+
+[33mcommit eb6504f2bd1cefcf92501627c7e2f4ab031d0178[m
+Author: chogol <110442211+chogol@users.noreply.github.com>
+Date:   Tue Aug 9 20:44:38 2022 -0400
+
+    Agrega usuario chogol
+
+[33mcommit 2def8b20522a09c961a23b44ca6ef6201e5040d5[m
+Merge: d29deb9 09cdb5b
+Author: pescapil <pescapil@uc.cl>
+Date:   Wed Aug 10 02:42:14 2022 +0200
+
+    Merge pull request #10 from GeorgeAdrock/main
+    
+    Update requirements.txt
+
+[33mcommit 09cdb5bc5e9e57ff2379595ec255877eba28bbe7[m
+Merge: 4f8a2aa d29deb9
+Author: George <jorge.araya.vergara@gmail.com>
+Date:   Tue Aug 9 20:40:34 2022 -0400
+
+    Merge branch 'pescap:main' into main
+
+[33mcommit d29deb92be7b2b8922caedd6eb6a85acb855f685[m
+Merge: 2535b6b f13b423
+Author: pescapil <pescapil@uc.cl>
+Date:   Wed Aug 10 02:40:23 2022 +0200
+
+    Merge pull request #12 from CarlosZuritaEstolaza/main
+    
+    Update 2022-08-09
+
+[33mcommit f13b4235ff1637c7a2478d6a623e7923baf1c8cf[m
+Merge: aa87379 2535b6b
+Author: pescapil <pescapil@uc.cl>
+Date:   Wed Aug 10 02:38:04 2022 +0200
+
+    Merge branch 'main' into main
+
+[33mcommit 4f8a2aa028da593b16aca72207801a680b833358[m
+Merge: 26f7a75 2535b6b
+Author: George <jorge.araya.vergara@gmail.com>
+Date:   Tue Aug 9 20:36:46 2022 -0400
+
+    Merge branch 'pescap:main' into main
+
+[33mcommit 2535b6b8cea3b5b521b3ec942e60162709979110[m
+Merge: 9a8f28c 25cd669
+Author: pescapil <pescapil@uc.cl>
+Date:   Wed Aug 10 02:36:41 2022 +0200
+
+    Merge pull request #13 from danyrubiano/patch-1
+    
+    [add] user danyrubiano
+
+[33mcommit 25cd6695bf636aac0623baa8a1b4e06079da191c[m
+Author: Dany Rubiano Jiménez <dany.rubiano@usach.cl>
+Date:   Tue Aug 9 20:31:12 2022 -0400
+
+    [add] user danyrubiano
+
+[33mcommit 26f7a756f1403389e1d6f557abc830c6a3d84099[m
+Merge: 7da3643 9a8f28c
+Author: George <jorge.araya.vergara@gmail.com>
+Date:   Tue Aug 9 20:28:24 2022 -0400
+
+    Merge branch 'pescap:main' into main
+
+[33mcommit aa873799a9748a61ebde3f01b130cd0d73fa46aa[m
+Author: CarlosZuritaEstolaza <110506124+CarlosZuritaEstolaza@users.noreply.github.com>
+Date:   Tue Aug 9 20:27:30 2022 -0400
+
+    Se agrega usuario
+    
+    Actualización
+
+[33mcommit c76fde8535bef0f2a066fba30acb7c28c12a31b8[m
+Author: Jose Alexander <josealexyanez@live.com>
+Date:   Tue Aug 9 20:27:22 2022 -0400
+
+    agrega usuario JoseAlexanderCL
+
+[33mcommit 7fdfaf5edc5adfe9f7bd28578a97511b2954cdbb[m
+Merge: c1c4ef8 9a8f28c
+Author: CarlosZuritaEstolaza <110506124+CarlosZuritaEstolaza@users.noreply.github.com>
+Date:   Tue Aug 9 20:27:01 2022 -0400
+
+    Merge branch 'pescap:main' into main
+
+[33mcommit 9a8f28c5edbe3ff4e37d195a529e28bdfbe80576[m
+Merge: 301b959 74c5248
+Author: pescapil <pescapil@uc.cl>
+Date:   Wed Aug 10 02:25:58 2022 +0200
+
+    Merge pull request #9 from pescap/user
+    
+    added pescap as user
+
+[33mcommit 7da364389e958de6963e8046436611f3acc0914b[m
+Author: George <jorge.araya.vergara@gmail.com>
+Date:   Tue Aug 9 20:25:44 2022 -0400
+
+    Update requirements.txt
+
+[33mcommit 74c524807860299012a97bc831e4449e00330119[m
+Author: Paul Escapil-Inchauspé <paul@MacBook-Air-de-Paul-2.local>
+Date:   Wed Aug 10 02:25:21 2022 +0200
+
+    added pescap as user
+
+[33mcommit 301b959b8c70c917aa531030b27db4b6176c04e6[m
+Merge: 5ecc38f f6ac5df
+Author: pescapil <pescapil@uc.cl>
+Date:   Wed Aug 10 02:21:15 2022 +0200
+
+    Merge pull request #8 from pescap/product2
+    
+    agregar producto2
+
+[33mcommit f6ac5dffef56350d861758e7ad6cb8f53c54061f[m
+Author: Paul Escapil-Inchauspé <paul@MacBook-Air-de-Paul-2.local>
+Date:   Wed Aug 10 02:20:12 2022 +0200
+
+    agregar producto2
+
+[33mcommit 5ecc38f15836c39a6be511c242610359cf2f3cfa[m
+Merge: f245b1b cd8fda4
+Author: pescapil <pescapil@uc.cl>
+Date:   Wed Aug 10 02:12:53 2022 +0200
+
+    Merge pull request #6 from pescap/readme
+    
+    agregar la descripción del producto 1 al README.md fixes #4
+
+[33mcommit cd8fda4072bbaba8f7f56e4276b5267db68bfbcf[m
+Author: Paul Escapil-Inchauspé <paul@MacBook-Air-de-Paul-2.local>
+Date:   Wed Aug 10 02:10:12 2022 +0200
+
+    agregar la descripción del producto 1 al README.md
+
+[33mcommit c1c4ef8741292930656424b6e550c05e2c3d4d1a[m
+Author: CarlosZuritaEstolaza <110506124+CarlosZuritaEstolaza@users.noreply.github.com>
+Date:   Tue Aug 9 19:07:39 2022 -0400
+
+    Update README.md
+    
+    test pull request
+
+[33mcommit f245b1b347b4fb15bf8eeb74e07b24bcdef9bbc7[m
+Merge: 8f20c4b d9c2d37
+Author: pescapil <pescapil@uc.cl>
+Date:   Mon Aug 8 11:19:18 2022 +0200
+
+    Merge pull request #3 from JoseAlexanderCL/main
+    
+    Actualización Evaluación Curso en README
+
+[33mcommit 8f20c4bad17dd74de88c45bc4d2c48586da0b076[m
+Author: Paul Escapil-Inchauspé <paul@MacBook-Air-de-Paul-2.local>
+Date:   Mon Aug 8 11:18:30 2022 +0200
+
+    primer proyecto de lluvia
+
+[33mcommit d9c2d371fd1d9e359d9f481d632e6536a8c1f4ac[m
+Author: Jose Alexander <josealexyanez@live.com>
+Date:   Sun Aug 7 22:15:41 2022 -0400
+
+    Actualización Evaluación Curso en README
+
+[33mcommit b9aee3007e235653547e220c0dda272e642baa95[m
+Author: pescapil <pescapil@uc.cl>
+Date:   Wed Aug 3 03:17:15 2022 +0200
+
+    Update README.md
+
+[33mcommit 04fa68a8d800a709320b441177e3f5efffef7416[m
+Author: pescapil <pescapil@uc.cl>
+Date:   Wed Aug 3 03:12:06 2022 +0200
+
+    Update README.md
+
+[33mcommit 787a3806a5a257bc30987ea6f300ab3c391a9dab[m
+Author: pescapil <pescapil@uc.cl>
+Date:   Wed Aug 3 03:11:32 2022 +0200
+
+    Initial commit

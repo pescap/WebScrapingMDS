@@ -4,16 +4,12 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.select import Select
 from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.chrome.options import Options
 import pandas as pd
 import time
 import os
 import sys
-
-
-
-
-os.environ['w2n.lang'] = 'es'
-locale.setlocale(locale.LC_TIME, 'es_ES')
+import locale
 
 def fill_text_field(driver, xpath, text):
     # Funcion que llena texto en un campo de la pagina
@@ -28,25 +24,28 @@ def select_option(driver, xpath, index):
 
 
 url = 'https://www.pjud.cl/tribunales/corte-suprema'
-chromeOptions = webdriver.ChromeOptions()
+chrome_options = Options()
 path = os.path.join(os.getcwd(), "output\\")
 prefs = {"download.default_directory" : path,  "directory_upgrade": True}
-chromeOptions.add_experimental_option("prefs",prefs)
-driver = webdriver.Chrome(executable_path=ChromeDriverManager().install(), options = chromeOptions)
+chrome_options.add_experimental_option("prefs",prefs)
+chrome_options.add_argument('--headless')
+driver = webdriver.Chrome(executable_path=ChromeDriverManager().install(), options = chrome_options)
 driver.get(url)
 
 driver.implicitly_wait(10)
 
-años = ["2015", "2016", "2017, "2018", "2019"]
-meses = ["01", "02", "03", "04", "05", "06", "07", "08", '09', '10', '11', '12']
+anos = ["2022"] 
+meses = ["01", "02", "03", "04", "05", "06", "07", "08"]
 
+Integraciones = driver.find_element(By.XPATH, 
+"/html/body/section/div/div/div[1]/div[2]/div/div/div/div/div/div/div/div[1]/div[2]/div[1]/div/div/div[3]/div/div/a[6]")
+Integraciones.click()
 
-
-for año in años:
+for ano in anos:
     # Estos indices se obtienen de las opciones de la pagina, cada uno es un mes, cambiar para obtener mas meses
     #for index in range(1, 2):
-        # Se envia la info a la pagina
-    select_option(driver, '/html/body/div[11]/div/div/div[2]/form/div[2]/div[1]/div/select', str(año))
+        # Se envia la info a la pagina /html/body/div[11]/div/div/div[2]/form/div[2]/div[1]/div/select
+    select_option(driver, '/html/body/div[11]/div/div/div[2]/form/div[2]/div[1]/div/select', str(ano))
     for mes in meses:
         select_option(driver, '/html/body/div[11]/div/div/div[2]/form/div[2]/div[2]/div/select', mes)
         select = Select(driver.find_element(By.XPATH, "/html/body/div[11]/div/div/div[2]/form/div[2]/div[3]/div/select")) #get all the options into a list
