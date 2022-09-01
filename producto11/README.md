@@ -1,3 +1,11 @@
+Este repositorio contiene:
+README.md: Nombre de proyecto y descripción corta del proyecto
+users.txt:logins de los integrantes del grupo
+requirements.txt: Librerías que se usan para el proyecto
+scraper.py: código fuente del scraper
+plot.py: Análisis de datos, plots
+
+
 # BolsaTrabajo_CienciaDatos
  Estadistica y recopilacion de informacion de ofertas de trabajo relacionadas con Data Science
 
