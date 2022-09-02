@@ -54,15 +54,13 @@ while run:
             assignees = ["No one assigned"]
 
         for l in range(len(assignees)):
-            df = df.append(
-                {
+            new_row = {
                     "issue": issue,
                     "author": author,
                     "state": state,
                     "assignees": assignees[l],
-                },
-                ignore_index=True,
-            )
+                }
+            df = pd.concat([df, pd.DataFrame([new_row])], axis=0, ignore_index=True)
     issue += 1
 
 df.to_csv(name, index=False)
