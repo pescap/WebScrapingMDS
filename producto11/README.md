@@ -33,7 +33,7 @@ Los pasos definidos a seguir son:
 
 2. Leer el dataframe con direcciones de las paginas y avisos que se escrapeará, para posteriomente rescatar los datos de interés. Para este paso, utilizaremos la libreria Beautiful Soup.
 
-3. Visualizar la información y realizar un análisis respecto de la data obtenida, utilizando librerias de python cono plotly.
+3. Visualizar la información y realizar un análisis respecto de la data obtenida, utilizando librerias de python como plotly.
 
 
 
