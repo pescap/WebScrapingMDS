@@ -1,0 +1,18 @@
+import os
+from time import sleep
+from selenium import webdriver
+from webdriver_manager.chrome import ChromeDriverManager
+# Inicializar el navegador
+
+URL = 'https://www.lider.cl/supermercado/category/Mundo-Beb%C3%A9-y-Jugueter%C3%ADa/Johnson-s-Baby/_/N-1hwcqlnZwlme1v?isNavRequest=Yes'
+
+chromeOptions = webdriver.ChromeOptions()
+path = os.path.join(os.getcwd(), "output\\")
+prefs = {"download.default_directory" : path, "directory_upgrade": True}
+chromeOptions.add_experimental_option("prefs",prefs)
+
+driver = webdriver.Chrome(executable_path = ChromeDriverManager().install(), options = chromeOptions)
+
+# Abrir la paágina web
+driver.get(URL)
+sleep(20)
