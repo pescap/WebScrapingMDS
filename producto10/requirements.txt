@@ -1,1 +1,10 @@
+pandas
 numpy
+os
+time
+datetime
+selenium
+selenium.webdriver.common.by
+selenium.webdriver.support.select
+selenium.common.exceptions
+webdriver_manager.chrome
