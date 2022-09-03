@@ -8,6 +8,11 @@ En esta sección, vamos a detallar cómo instalar y correr el comando git desde 
 
 )
 
+[Guías de GitHub](https://www.youtube.com/githubguides)
+
+[Tutorial de GitHub](https://towardsdatascience.com/github-actions-everything-you-need-to-know-to-get-started-537f1dffa0ed)
+
+
 ### GitHub Desktop
 
 ### Linux
