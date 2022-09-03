@@ -94,7 +94,7 @@ Ahora tenemos disponible para modificar todos los archivos de nuestro repositori
 
 Algunas referencias:
 
-[https://www.crummy.com/software/BeautifulSoup/bs4/doc/](Beautiful Soup Documentation)
+[Beautiful Soup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 
 ## Introducción a Selenium
