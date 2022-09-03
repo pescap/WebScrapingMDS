@@ -32,6 +32,21 @@ jobs:
           git status
           git add -A
           git commit -a -m "Added new date for producto7" || echo "Nothing to commit"
+
+      - name: Install Python dependencies and run the code2
+        run: |
+            cd producto7
+            pip install -r requirements.txt
+            python limpieza.py
+  
+      - name: Commit data files
+        run: |
+          pwd
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git status
+          git add -A
+          git commit -a -m "Added new date for producto7" || echo "Nothing to commit"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
