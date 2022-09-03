@@ -4,9 +4,7 @@
 
 En esta sección, vamos a detallar cómo instalar y correr el comando git desde nuestros computadores
 
-[Curso de GitHub](https://www.youtube.com/watch?v=ANF1X42_ae4&list=PLU8oAlHdN5BlyaPFiNQcV0xDqy0eR35aU
-
-)
+[Curso de GitHub](https://www.youtube.com/watch?v=ANF1X42_ae4&list=PLU8oAlHdN5BlyaPFiNQcV0xDqy0eR35aU)
 
 [Guías de GitHub](https://www.youtube.com/githubguides)
 
