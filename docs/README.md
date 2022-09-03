@@ -4,6 +4,10 @@
 
 En esta sección, vamos a detallar cómo instalar y correr el comando git desde nuestros computadores
 
+[Curso de GitHub](https://www.youtube.com/watch?v=ANF1X42_ae4&list=PLU8oAlHdN5BlyaPFiNQcV0xDqy0eR35aU
+
+)
+
 ### GitHub Desktop
 
 ### Linux
@@ -43,6 +47,12 @@ git push origin neo
 ```
 
 Ahora, podemos ir a nuestro repositorio desde el navegador y proponer Pull Requests.
+
+Notas:
+Para limpiar un repositorio GitHub local, ir al repositorio y correr:
+```
+git clean -fd
+```
 
 ## Uso GitHub Desktop en Windows
 
@@ -98,6 +108,11 @@ Algunas referencias:
 
 
 ## Introducción a Selenium
+
+[XPath Helper](https://chrome.google.com/webstore/detail/xpath-helper/hgimnogjllphhhkhlmebbmlgjoejdpjl?hl=en
+
+)
+
 
 ## Introducción a GitHub Actions
 
