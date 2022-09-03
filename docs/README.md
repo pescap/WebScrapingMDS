@@ -98,3 +98,9 @@ Algunas referencias:
 
 
 ## Introducción a Selenium
+
+## Introducción a GitHub Actions
+
+[Video introductorio GitHub Actions](https://www.youtube.com/watch?v=PaGp7Vi5gfM)
+
+Generador de cron: https://crontab.guru/
