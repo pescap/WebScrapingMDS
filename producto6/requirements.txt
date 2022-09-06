@@ -3,3 +3,4 @@ lxml
 pandas
 selenium
 webdriver_manager
+openpyxl
