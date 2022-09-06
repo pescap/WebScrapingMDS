@@ -4,6 +4,13 @@
 
 En esta sección, vamos a detallar cómo instalar y correr el comando git desde nuestros computadores
 
+[Curso de GitHub](https://www.youtube.com/watch?v=ANF1X42_ae4&list=PLU8oAlHdN5BlyaPFiNQcV0xDqy0eR35aU)
+
+[Guías de GitHub](https://www.youtube.com/githubguides)
+
+[Tutorial de GitHub](https://towardsdatascience.com/github-actions-everything-you-need-to-know-to-get-started-537f1dffa0ed)
+
+
 ### GitHub Desktop
 
 ### Linux
@@ -43,6 +50,12 @@ git push origin neo
 ```
 
 Ahora, podemos ir a nuestro repositorio desde el navegador y proponer Pull Requests.
+
+Notas:
+Para limpiar un repositorio GitHub local, ir al repositorio y correr:
+```
+git clean -fd
+```
 
 ## Uso GitHub Desktop en Windows
 
@@ -92,6 +105,20 @@ Ahora tenemos disponible para modificar todos los archivos de nuestro repositori
 
 ## Introducción a BeautifulSoup
 
-Todo
+Algunas referencias:
+
+[Beautiful Soup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+
 
 ## Introducción a Selenium
+
+[XPath Helper](https://chrome.google.com/webstore/detail/xpath-helper/hgimnogjllphhhkhlmebbmlgjoejdpjl?hl=en
+
+)
+
+
+## Introducción a GitHub Actions
+
+[Video introductorio GitHub Actions](https://www.youtube.com/watch?v=PaGp7Vi5gfM)
+
+Generador de cron: https://crontab.guru/

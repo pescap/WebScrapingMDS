@@ -1,1 +1,2 @@
-numpy
+selenium ==4.4.0
+pandas ==1.4.3
