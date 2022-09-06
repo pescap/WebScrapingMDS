@@ -20,6 +20,7 @@ jobs:
 
       - name: Install Python dependencies
         run: |
+            cd producto83
             pip install -r requirements.txt
             python WEB_SCRAPPING_PROYECTO.py
       - name: Commit data files
