@@ -70,7 +70,7 @@ options.add_experimental_option("prefs", {
   "download.prompt_for_download": False,
   "download.directory_upgrade": True
 })
-
+options.add_argument('--headless')
 #https://stackoverflow.com/questions/46937319/how-to-use-chrome-webdriver-in-selenium-to-download-files-in-python
 
 
