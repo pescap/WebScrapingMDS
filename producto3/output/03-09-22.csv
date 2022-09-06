@@ -12,12 +12,12 @@ issue,author,state,assignees
 15,DenisOsses,closed,DenisOsses
 15,DenisOsses,closed,iggypoprl
 17,CarlosZuritaEstolaza,closed,CarlosZuritaEstolaza
-20,CarlosZuritaEstolaza,closed,CarlosZuritaEstolaza
+20,CarlosZuritaEstolaza,open,CarlosZuritaEstolaza
 21,gavalenz,closed,gavalenz
 24,kevimulloa,closed,kevimulloa
 25,josemoragonzalez,closed,pescap
 25,josemoragonzalez,closed,josemoragonzalez
-27,pescap,closed,gavalenz
+27,pescap,open,No one assigned
 28,JoseAlexanderCL,closed,JoseAlexanderCL
 29,iggypoprl,closed,josemoragonzalez
 29,iggypoprl,closed,iggypoprl
@@ -28,7 +28,7 @@ issue,author,state,assignees
 43,DavidValenzuelaP,closed,DenisOsses
 45,jwilenmann,closed,josemoragonzalez
 45,jwilenmann,closed,jwilenmann
-46,pescap,closed,CarlosZuritaEstolaza
+46,pescap,open,No one assigned
 47,pescap,closed,No one assigned
 48,omaldonados,closed,omaldonados
 48,omaldonados,closed,ronaldchester
@@ -39,12 +39,11 @@ issue,author,state,assignees
 54,ronaldchester,closed,CarlosZuritaEstolaza
 54,ronaldchester,closed,ronaldchester
 54,ronaldchester,closed,gavalenz
-60,MiguelAbarzua,closed,danyrubiano
-60,MiguelAbarzua,closed,MiguelAbarzua
+60,MiguelAbarzua,open,No one assigned
 61,GeorgeAdrock,closed,GeorgeAdrock
 61,GeorgeAdrock,closed,omaldonados
 61,GeorgeAdrock,closed,MiguelAbarzua
-62,jwilenmann,closed,No one assigned
+62,jwilenmann,open,No one assigned
 64,gavalenz,closed,gavalenz
 65,jwilenmann,closed,jwilenmann
 65,jwilenmann,closed,CarlosZuritaEstolaza
@@ -59,44 +58,33 @@ issue,author,state,assignees
 73,pescap,closed,yerkocp28
 73,pescap,closed,JoseAlexanderCL
 73,pescap,closed,CarlosZuritaEstolaza
-74,pescap,closed,No one assigned
-75,pescap,closed,No one assigned
+74,pescap,open,No one assigned
+75,pescap,open,No one assigned
 76,pescap,closed,cechiang
 76,pescap,closed,iggypoprl
 76,pescap,closed,Carloslugook
-77,pescap,closed,No one assigned
+77,pescap,open,No one assigned
 78,MiguelAbarzua,closed,MiguelAbarzua
-79,omaldonados,closed,omaldonados
-81,dnavia,closed,dnavia
-81,dnavia,closed,caspoerer
-81,dnavia,closed,rbrunaduran
-82,pescap,closed,No one assigned
-83,pescap,closed,CarlosZuritaEstolaza
-85,pescap,closed,No one assigned
-86,ronaldchester,closed,LitzyCastro
-86,ronaldchester,closed,ronaldchester
-88,jwilenmann,closed,danyrubiano
-88,jwilenmann,closed,jwilenmann
-91,figueraf,closed,Franciscoletelier
-91,figueraf,closed,fsutterc
-91,figueraf,closed,figueraf
-92,Anosmiko,closed,Anosmiko
-92,Anosmiko,closed,ronaldchester
-92,Anosmiko,closed,iggypoprl
-92,Anosmiko,closed,FASTORG
-93,rbrunaduran,closed,josemoragonzalez
-93,rbrunaduran,closed,rbrunaduran
-93,rbrunaduran,closed,MiguelAbarzua
+79,omaldonados,open,No one assigned
+81,dnavia,open,dnavia
+82,pescap,open,No one assigned
+83,pescap,open,No one assigned
+85,pescap,open,No one assigned
+86,ronaldchester,open,No one assigned
+88,jwilenmann,open,No one assigned
+91,figueraf,open,No one assigned
+92,Anosmiko,open,No one assigned
+93,rbrunaduran,open,No one assigned
 94,JoseAlexanderCL,closed,JoseAlexanderCL
 96,caspoerer,closed,dnavia
 96,caspoerer,closed,caspoerer
-98,dnavia,closed,josemoragonzalez
-98,dnavia,closed,dnavia
-100,Davives,closed,FASTORG
-101,Davives,closed,No one assigned
-102,Davives,closed,No one assigned
-103,Davives,closed,No one assigned
-104,Davives,closed,yerkocp28
+98,dnavia,open,josemoragonzalez
+98,dnavia,open,dnavia
+100,Davives,open,FASTORG
+101,Davives,open,No one assigned
+102,Davives,open,No one assigned
+103,Davives,open,No one assigned
+104,Davives,open,No one assigned
 106,jwilenmann,closed,josemoragonzalez
 106,jwilenmann,closed,jwilenmann
 108,Carloslugook,closed,Carloslugook
@@ -110,43 +98,32 @@ issue,author,state,assignees
 120,gaozh93,closed,Franciscoletelier
 120,gaozh93,closed,gavalenz
 120,gaozh93,closed,fsutterc
-121,fsutterc,closed,fsutterc
-121,fsutterc,closed,figueraf
-121,fsutterc,closed,gaozh93
-121,fsutterc,closed,MiguelAbarzua
-125,figueraf,closed,danyrubiano
-125,figueraf,closed,figueraf
-125,figueraf,closed,fguaico
-126,figueraf,closed,figueraf
-130,Fofiguer,closed,Fofiguer
-133,rvillagra83,closed,rvillagra83
-134,CarlosZuritaEstolaza,closed,CarlosZuritaEstolaza
+121,fsutterc,open,fsutterc
+121,fsutterc,open,gaozh93
+125,figueraf,open,figueraf
+125,figueraf,open,fguaico
+126,figueraf,open,figueraf
+130,Fofiguer,open,Fofiguer
+133,rvillagra83,open,No one assigned
+134,CarlosZuritaEstolaza,open,CarlosZuritaEstolaza
 135,caspoerer,closed,dnavia
 135,caspoerer,closed,MauroBustos
 135,caspoerer,closed,caspoerer
 135,caspoerer,closed,mdepixuai
-138,JoseAlexanderCL,closed,JoseAlexanderCL
-139,JoseAlexanderCL,closed,MauroBustos
-139,JoseAlexanderCL,closed,JoseAlexanderCL
-139,JoseAlexanderCL,closed,gaozh93
-143,pescap,closed,No one assigned
-144,Anosmiko,closed,danyrubiano
-144,Anosmiko,closed,Anosmiko
-147,fguaico,closed,Franciscoletelier
-147,fguaico,closed,rbrunaduran
-147,fguaico,closed,fguaico
-152,rvillagra83,closed,rvillagra83
+138,JoseAlexanderCL,open,No one assigned
+139,JoseAlexanderCL,open,MauroBustos
+139,JoseAlexanderCL,open,JoseAlexanderCL
+139,JoseAlexanderCL,open,gaozh93
+143,pescap,open,No one assigned
+144,Anosmiko,open,Anosmiko
+147,fguaico,open,rbrunaduran
+152,rvillagra83,open,rvillagra83
 153,rbrunaduran,closed,rbrunaduran
-158,CarlosZuritaEstolaza,closed,CarlosZuritaEstolaza
-158,CarlosZuritaEstolaza,closed,rvillagra83
-159,danyrubiano,closed,jwilenmann
-160,danyrubiano,closed,danyrubiano
-160,danyrubiano,closed,Franciscoletelier
+158,CarlosZuritaEstolaza,open,CarlosZuritaEstolaza
+159,danyrubiano,open,No one assigned
+160,danyrubiano,open,danyrubiano
 162,jwilenmann,closed,jwilenmann
-166,Fofiguer,closed,Franciscoletelier
-166,Fofiguer,closed,JoseAlexanderCL
-166,Fofiguer,closed,Fofiguer
-166,Fofiguer,closed,fsutterc
+166,Fofiguer,open,Fofiguer
 170,FASTORG,closed,No one assigned
-177,iggypoprl,closed,iggypoprl
+177,iggypoprl,open,No one assigned
 180,enriques76,closed,No one assigned
