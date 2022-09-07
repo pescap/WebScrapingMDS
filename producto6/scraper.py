@@ -40,8 +40,8 @@ from selenium.webdriver         import ActionChains
 
 
 # Creamos carpeta para el Producto Analizado
-CurrentDirectory = os.getcwd()
-CurrentDirectoryFolder = CurrentDirectory + '\\' + 'FALABELLA' #PARAMETRO_NOMBRE
+#CurrentDirectory = os.getcwd()
+#CurrentDirectoryFolder = CurrentDirectory + '\\' + 'FALABELLA' #PARAMETRO_NOMBRE
 
 
 # In[3]:
@@ -49,11 +49,11 @@ CurrentDirectoryFolder = CurrentDirectory + '\\' + 'FALABELLA' #PARAMETRO_NOMBRE
 
 # Ve si existe la carpeta del Producto Analizado, o la crea
 
-if os.path.exists(CurrentDirectoryFolder) == True:
-    print('Existe')
-else:
-    os.makedirs(CurrentDirectoryFolder)
-    print('Creada, ahora existe')
+#if os.path.exists(CurrentDirectoryFolder) == True:
+#    print('Existe')
+#else:
+#    os.makedirs(CurrentDirectoryFolder)
+#    print('Creada, ahora existe')
 
 
 # # Parametros para Selenium
@@ -62,11 +62,13 @@ else:
 
 
 # definir ruta_descarga a gusto
-ruta_descarga = CurrentDirectoryFolder 
+#ruta_descarga = CurrentDirectoryFolder 
+path = os.path.join(os.getcwd(), "output")
+
 
 options = Options()
 options.add_experimental_option("prefs", {
-  "download.default_directory": ruta_descarga, #Donde descargara
+  "download.default_directory": path, #Donde descargara
   "download.prompt_for_download": False,
   "download.directory_upgrade": True
 })
@@ -271,32 +273,13 @@ datos_df_limpio['Low']           = datos_df_limpio['Low'].str.replace(',','').as
 datos_df_limpio['ChangePercent'] = datos_df_limpio['ChangePercent'].str.replace('%','').astype('float')
 
 
-# In[22]:
-
-
-datos_df_limpio
-
-
-# In[23]:
-
-
 import openpyxl
 # Exportamos Resultado -- Cambiar Ruta a ruta del proyecto
-datos_df_limpio.to_excel(CurrentDirectoryFolder + '\\' + 'FALABELLA.xlsx', index=False) #PARAMETRO_NOMBRE
 
 
-# In[24]:
+#datos_df_limpio.to_excel(CurrentDirectoryFolder + '\\' + 'FALABELLA.xlsx', index=False) #PARAMETRO_NOMBRE
 
-
-# Limpiamos por espacio
-del Raw_Data
-del datos_df
-del datos_df_limpio
-
-
-# In[25]:
-
-
+datos_df_limpio.to_csv('output/output.csv', index = False)
 browser.close()
 
 
