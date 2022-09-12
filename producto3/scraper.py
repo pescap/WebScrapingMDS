@@ -17,7 +17,7 @@ df = pd.DataFrame(columns=columns)
 
 while run:
     url_name = "https://github.com/pescap/WebScrapingMDS/issues/" + str(issue)
-
+    print(issue, 'issue')
     # Recuperar el html
     url = requests.get(url_name)
     # Se checkea que no sea un PR
