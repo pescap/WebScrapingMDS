@@ -1,6 +1,6 @@
-numpy
-bs4
 selenium
 xlrd
-request
-BeautifulSoup
+webdriver_manager.chrome
+pandas
+time
+os
