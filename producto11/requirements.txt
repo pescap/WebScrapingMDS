@@ -1,9 +1,9 @@
-numpy
-pandas
-tabulate
-re
-time
-selenium
 bs4
 matplotlib
+numpy
+pandas
+re
+selenium
+time
+tabulate
 warnings

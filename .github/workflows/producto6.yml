@@ -1,0 +1,42 @@
+# This is a basic workflow to help you get started with Actions
+
+name: producto6
+on:
+  schedule:
+  - cron: "0 8 * * *"
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  producto6:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+      - name: Setup Python
+        uses: actions/setup-python@v1
+        with:
+          python-version: "3.8"
+
+      - name: Install Python dependencies
+        run: |
+            cd producto6
+            pip install -r requirements.txt
+      - name: Run scraper
+        run: |
+            cd producto6
+            python scraper.py          
+      - name: Commit data files
+        run: |
+          pwd
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git status
+          git add -A
+          git commit -a -m "Added new date for producto6" || echo "Nothing to commit"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+          force: true

@@ -2,6 +2,8 @@ from datetime import date
 from matplotlib import pyplot as plt
 import numpy as np
 import pandas as pd
+from matplotlib import collections  as mc
+
 
 # Importar los resultados
 
@@ -18,6 +20,7 @@ issue_count = issue_count.drop("Davives")
 # Usuarios asignados para issues cerrados
 assignee_count = df[df.state == "closed"].assignees.value_counts()
 assignee_count = assignee_count.drop("pescap")
+assignee_count = assignee_count.drop("Davives")
 assignee_count = assignee_count.drop("No one assigned")
 
 # Concatenar ambas listas
@@ -31,10 +34,23 @@ test["nota"] = concat.values
 nota = test.groupby(["user"])["nota"].sum().sort_values() + 1
 nota = nota.clip(upper=7)
 
+alumnos = nota.shape
+
 # Plot
-plt.figure(figsize=(16, 8))
+#plt.figure(figsize=(16, 8))
+
+fig, ax = plt.subplots(figsize = (16,8))
+
 nota.plot(kind="barh")
 plt.xlabel("Nota")
+c = np.array([(1, 0, 0, 1), (0, 1, 0, 1), (0, 0, 1, 1)])
+
+lines = [[(0, 0), (0, 9)], [(0, 9), (0, 19)], [(0, 19), (0, 29)]]
+
+#lines = [[(0, 0), (0, 5)], [(7.2, 7.2), (5, 10)]]
+lc = mc.LineCollection(lines, linewidths=2, colors=c)
+ax.add_collection(lc)
+plt.text(5.5,1,'Número de alumnos: %s'%alumnos)
 
 
 plt.show(block=False)
