@@ -19,8 +19,15 @@ issue_count = issue_count.drop("Davives")
 
 # Usuarios asignados para issues cerrados
 assignee_count = df[df.state == "closed"].assignees.value_counts()
-assignee_count = assignee_count.drop("pescap")
-assignee_count = assignee_count.drop("Davives")
+try:
+  assignee_count = assignee_count.drop("pescap")
+except:
+  print('pescap not assigned')
+try:
+  assignee_count = assignee_count.drop("Davives")
+except:
+  print('Davives not assigned')
+
 assignee_count = assignee_count.drop("No one assigned")
 
 # Concatenar ambas listas
