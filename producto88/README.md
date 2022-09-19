@@ -31,3 +31,5 @@ Los resultados del scraper en formato .csv
 ## Resultados
 
 Para ver los resultados del scraper convertido en una panel de visualización haz clic en este [enlace en línea](https://josemoragonzalez-webscrapingmds-producto88streamlit-t3mflb.streamlitapp.com/)
+
+Para ver los resultados del scraper convertido en una panel de control haz clic en este [enlace en línea](https://app.powerbi.com/view?r=eyJrIjoiZDAxMzQ2ZjYtNzI5Ni00OWExLThiMTAtNTY1MDg5MGY2ODA3IiwidCI6ImRjZWY1Nzc1LTQ2ZmEtNGNkYy1iZGJjLTU4M2FiYTI2MmE5OCJ9)
