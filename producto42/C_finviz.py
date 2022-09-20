@@ -11,7 +11,6 @@ url = "https://finviz.com/quote.ashx?t="
 instrumento = input("Ingresar instrumento en minuscula: ")
 instrumentoUpper = instrumento.upper()
 
-numCSV = input("Ingresar numero de CSV de ese instrumento: ")
 
 # ========================================= 
 # Se genera url segun instrumento
@@ -28,26 +27,43 @@ tabla = soup.find(id="news-table")
 
 # ========================================= 
 ###### Generacion de DF ######
-fechas = []
+horas = []
+dias = []
 titulares = []
 
 for articulo in  tabla.find_all("tr"): # para cada fila del tablon de noticias
+    
+    # Fecha
+    #=================================================
     fecha = articulo.find("td").string.split() 
-    titular = articulo.find("a").string
     
-    fechas.append(fecha)
+    # Dia 
+    if len(fecha) == 2:
+        dia = fecha[0]
+   
+    dias.append(dia)
+    
+    # Hora      
+    if len(fecha) == 1:
+        horas.append(fecha[0])
+    elif len(fecha) == 2:
+        horas.append(fecha[1])
+        
+    # Titular
+    titular = articulo.find("a").string   
     titulares.append(titular)
-    
-diccDF = {"Fechas": fechas, "Titular": titulares}
 
-paraCSV = pd.DataFrame(diccDF)
+# Operaciones para ordenar DF 
+diccDF = {"Dia": dias, "Horas": horas, "Titular": titulares}
+df = pd.DataFrame(diccDF)
 
+df["Fecha"] = pd.to_datetime(df["Dia"] + " " + df["Horas"])
+df.drop(["Dia", "Horas"], axis=1, inplace=True)
+
+df = df[["Fecha", "Titular"]]
 # ========================================= 
 # se genera csv
 print("Generando CSV...")
-
-nombre = instrumento + "_" + numCSV + ".csv"
-
-paraCSV.to_csv(f'C:/Users/psini/Desktop/Web_Scrapping/finviz/data/{nombre}', encoding='utf-8', index=False)
+df.to_csv(f"output/{instrumento}_finviz.csv", encoding='utf-8', index=False)
 print("Listo!")
 

@@ -16,6 +16,9 @@ Se obtendra titulares e informacion de distintos portales financieros:
 
 Se crearan distintos CSV con distintas estructuras como propuestas para resolver el problema de clasificacion de compra/no compra. 
 
+
+IMPORTANTE: para la propuesta 3 de juntar datos de FinViz e Investing, solo se concreta para este curso la generacion de datos con FinViz. En un futuro se utilizara una API de Yahoo Finance para obtener datos historicos de acciones y se utilizara finviz y FT para obtener ojala al menos 25 titulares por instruemnto por dia
+
 ## Este repositorio contiene:
 
 - Jupyter Notebook "A_yahooFinance", el cual contiene el scraping y NLP para Yahoo! Finance

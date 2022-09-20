@@ -89,9 +89,11 @@ diccDF = {"Titulo": titulos, "Fecha": fechas, "Link": links, "Body": cuerpo}
 df = pd.DataFrame(diccDF)
 df["Fecha"] = pd.to_datetime(df["Fecha"])
 
-# df.to_csv(f'C:/Users/psini/Desktop/Web_Scrapping/ft/prueba/{instrumento}_{numPaginas-1}.csv', encoding='utf-8', index=False, header=True)
-# print("Listo!")
-# print(f"Se obtuvieron {len(df)} articulos")
+
+df.to_csv(f"output/{instrumento}_FT.csv", encoding='utf-8', index=False, header=True)
+
+print("Listo!")
+print(f"Se obtuvieron {len(df)} articulos")
 
 
 
