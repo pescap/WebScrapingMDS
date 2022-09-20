@@ -9,11 +9,14 @@ Se busca generar distintas estrucutras de CSV
 
 Se obtendra titulares e informacion de distintos portales financieros:
 
-- Yahoo! Finance: https://finance.yahoo.com/
-- Financial Times: https://www.ft.com/
-- Investing: https://www.investing.com/
-- FinViz: https://finviz.com/
 
+- Yahoo! Finance: https://finance.yahoo.com/ --> A_yahooFinance
+- Financial Times: https://www.ft.com/ --> B_financialTimes
+
+Beta:
+- Investing: https://www.investing.com/ --> C_finviz (Se logran obtener todas las noticias)
+- FinViz: https://finviz.com/ --> C_investing (aun en version Beta)
+ 
 Se crearan distintos CSV con distintas estructuras como propuestas para resolver el problema de clasificacion de compra/no compra. 
 
 
@@ -27,6 +30,5 @@ IMPORTANTE: para la propuesta 3 de juntar datos de FinViz e Investing, solo se c
 - Script  "C_investing", scraping en revision del portal Investing
 - "requirements.txt", el cual contiene el detalle de las librerias utilizadas y sus versiones
 - "users.txt" el cual detalla los usuarios de GitHub de los integrantes del grupo 
-docs:
-- 
+- "docs": contiene la presentacion
 
