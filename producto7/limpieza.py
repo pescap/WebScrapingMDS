@@ -115,8 +115,9 @@ def main():
     df_clean = clean_df(df)
 
     # Guardado de resultados
-    dir_output = os.path.join(base_dir, f"resultados_scraper_{date.today()}.csv")
-    df_clean.to_csv(dir_output, index=False, encoding='utf-8-sig')
+    dir_output = os.path.join(base_dir, f"2022_01_08.csv.csv")
+    # Agrega al archivo si existe
+    df_clean.to_csv(dir_output, mode='a', header=False, index=False, encoding='utf-8-sig')
 
     # Limpieza de pdfs en el directorio
     clean_directory(base_dir)

@@ -1,0 +1,9 @@
+gcloud auth configure-docker
+
+docker login gcr.io/web-scraping-cs
+
+docker build -t gcr.io/web-scraping-cs/scraping_cs:v0.0.1 .   
+
+docker run --rm -p 8080:8080 gcr.io/web-scraping-cs/scraping_cs:v0.0.1
+
+docker push  gcr.io/web-scraping-cs/scraping_cs:v0.0.1

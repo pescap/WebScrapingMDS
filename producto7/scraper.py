@@ -8,6 +8,9 @@ from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 import os
 import urllib.request
+import requests
+import pandas as pd
+import io
 
 os.environ['w2n.lang'] = 'es'
 
@@ -29,14 +32,14 @@ def compare_lists(list1, list2):
     return list(set(list1) - set(list2))
 
 
-def scraper(url, list_anios, list_meses, list_dias=None):
+def scraper(url, list_anios, dict_mes_dias):
     """Scraper"""
     chrome_options = Options()
     path = os.path.join(os.getcwd(), "output")
     prefs = {"download.default_directory" : path,  "directory_upgrade": True}
     chrome_options.add_experimental_option("prefs",prefs)
     chrome_options.add_argument('--headless')
-    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options = chrome_options)
     driver.get(url)
 
     driver.implicitly_wait(10)
@@ -49,15 +52,23 @@ def scraper(url, list_anios, list_meses, list_dias=None):
     # Loop de anios
     for anio in list_anios:
         select_option(driver, '/html/body/div[11]/div/div/div[2]/form/div[2]/div[1]/div/select', str(anio))
+        select_mes = Select(driver.find_element(By.XPATH, '/html/body/div[11]/div/div/div[2]/form/div[2]/div[2]/div/select')) #get all the options into a list
+        options_meses_list = [item.get_attribute("value") for item in select_mes.options]
+        options_meses_list.remove('null')
+        list_meses = list(dict_mes_dias.keys()) # meses ya scrapeados
+        # Obtencion de meses a considerar para la consulta
+        option_meses = compare_lists(options_meses_list, list_meses)
 
         # Loop de meses
-        for mes in list_meses:
+        for mes in option_meses:
             select_option(driver, '/html/body/div[11]/div/div/div[2]/form/div[2]/div[2]/div/select', mes)
-            select = Select(driver.find_element(By.XPATH, "/html/body/div[11]/div/div/div[2]/form/div[2]/div[3]/div/select")) #get all the options into a list
-            options_list = [item.get_attribute("value") for item in select.options]
+            select_dias = Select(driver.find_element(By.XPATH, "/html/body/div[11]/div/div/div[2]/form/div[2]/div[3]/div/select")) #get all the options into a list
+            options_dias_list = [item.get_attribute("value") for item in select_dias.options]
+            options_dias_list.remove('null') 
+            list_dias = dict_mes_dias[mes] if mes in dict_mes_dias.keys() else []  # dias ya scrapeados
 
             # Obtencion de dias a considera para la consulta
-            option_dias = compare_lists(options_list, list_dias) if list_dias is not None else options_list
+            option_dias = compare_lists(options_dias_list, list_dias)
 
             # Loop de dias a consultar
             for optionValue in option_dias:
@@ -84,14 +95,29 @@ def downloader_files(list_urls, dir_output):
         urllib.request.urlretrieve(url_file, f"{dir_output}/acta_{''.join(filter(str.isdigit, url_file))}.pdf")
 
 
+def get_periodo(dir):
+    """Obtiene la lista de meses y dias ya escrapeados"""
+    df = pd.read_csv(dir)
+    df['dia'] = pd.to_datetime(df['Fecha2']).dt.day.map("{:02}".format)
+    df['mes'] = pd.to_datetime(df['Fecha2']).dt.month.map("{:02}".format)
+
+    list_meses = df['mes'].unique().tolist()
+    dict_mes_dias = {}
+    for mes in list_meses:
+        dict_mes_dias[mes] = df[df['mes'] == mes]['dia'].unique().tolist()
+
+    return dict_mes_dias
+
 def main():
+    
     url = 'https://www.pjud.cl/tribunales/corte-suprema'
     list_anios = ['2022']
-    list_meses = ['01']
-
-    list_urls = scraper(url, list_anios, list_meses)
-
+    
     dir_output = os.path.join(os.getcwd(), "output")
+    dir_file = os.path.join(dir_output, "2022_01_08.csv.csv")
+    dict_mes_dias = get_periodo(dir_file)
+
+    list_urls = scraper(url, list_anios, dict_mes_dias)
     downloader_files(list_urls, dir_output)
 
 
