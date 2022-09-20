@@ -33,7 +33,10 @@ import xml.etree.ElementTree as ETree
 
 # Creamos carpeta para el Producto Analizado
 CurrentDirectory = os.getcwd()
-CurrentDirectoryFolder = CurrentDirectory + '\\' + 'output' #PARAMETRO_NOMBRE
+#CurrentDirectoryFolder = CurrentDirectory + '\\' + 'output' #PARAMETRO_NOMBRE
+CurrentDirectoryFolder = 'output/' #PARAMETRO_NOMBRE
+
+name = "output/" + fecha + ".csv"
 
 
 # In[3]:
@@ -319,7 +322,8 @@ datos_df_limpio
 
 #Exportamos Resultado -- Cambiar Ruta a ruta del proyecto
 
-datos_df_limpio.to_csv(CurrentDirectoryFolder + '\\' + 'FALABELLA.csv', index=False, sep=';') #PARAMETRO_NOMBRE
+#datos_df_limpio.to_csv(CurrentDirectoryFolder + '\\' + 'FALABELLA.csv', index=False, sep=';') #PARAMETRO_NOMBRE
+datos_df_limpio.to_csv(CurrentDirectoryFolder + 'FALABELLA.csv', index=False, sep=';') #PARAMETRO_NOMBRE
 
 #import openpyxl
 #datos_df_limpio.to_excel(CurrentDirectoryFolder + '\\' + 'FALABELLA.xlsx', index=False) #PARAMETRO_NOMBRE
