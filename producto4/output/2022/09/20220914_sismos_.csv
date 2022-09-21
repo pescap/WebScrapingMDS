@@ -1,0 +1,11 @@
+evento,lat,lng,fecha_local,hora_local,fecha_utc,hora_utc,profundidad,profundidad_unidad,magnitud,magnitud_unidad
+49 km al N de Mina Collahuasi,-20.385 ,-68.629,2022-09-14,20:30:28,2022-09-14,23:30:28,136,km,2.8,Ml
+9 km al SO de Ovalle,-30.641 ,-71.286,2022-09-14,19:41:13,2022-09-14,22:41:13,48,km,4.7,Mw
+32 km al E de Monte Patria,-30.815 ,-70.648,2022-09-14,19:16:45,2022-09-14,22:16:45,87,km,3.5,Ml
+32 km al E de Mina Los Pelambres,-31.772 ,-70.255,2022-09-14,19:13:24,2022-09-14,22:13:24,158,km,2.7,Ml
+67 km al E de Quillagua,-21.566 ,-68.890,2022-09-14,18:16:09,2022-09-14,21:16:09,92,km,3.0,Ml
+49 km al SO de Mina Collahuasi,-21.095 ,-69.030,2022-09-14,13:39:18,2022-09-14,16:39:18,116,km,2.8,Ml
+66 km al O de El Tabo,-33.298 ,-72.355,2022-09-14,11:19:27,2022-09-14,14:19:27,15,km,2.6,Ml
+154 km al O de Pichilemu,-34.301 ,-73.679,2022-09-14,11:16:39,2022-09-14,14:16:39,38,km,3.0,Ml
+11 km al N de Mejillones,-23.004 ,-70.465,2022-09-14,00:34:16,2022-09-14,03:34:16,38,km,3.7,Ml
+2 km al NO de Huasco,-28.455 ,-71.240,2022-09-13,23:26:58,2022-09-14,02:26:58,33,km,2.6,Ml
