@@ -1,0 +1,11 @@
+evento,lat,lng,fecha_local,hora_local,fecha_utc,hora_utc,profundidad,profundidad_unidad,magnitud,magnitud_unidad
+38 km al O de La Serena,-29.849 ,-71.638,2022-09-04,16:50:39,2022-09-04,20:50:39,45,km,2.9,Ml
+51 km al SO de San Pedro de Atacama,-23.292 ,-68.499,2022-09-04,15:42:01,2022-09-04,19:42:01,115,km,2.8,Ml
+20 km al S de La Ligua,-32.625 ,-71.254,2022-09-04,15:38:38,2022-09-04,19:38:38,74,km,2.5,Ml
+46 km al O de Mina La Escondida.,-24.335 ,-69.503,2022-09-04,13:13:20,2022-09-04,17:13:20,80,km,3.8,Ml
+51 km al NO de ChaÃ±aral.,-25.978 ,-70.921,2022-09-04,07:13:09,2022-09-04,11:13:09,41,km,3.4,Ml
+26 km al E de Putre,-18.230 ,-69.315,2022-09-04,05:41:28,2022-09-04,09:41:28,118,km,2.8,Ml
+27 km al O de Mina Collahuasi,-20.826 ,-68.920,2022-09-03,23:48:56,2022-09-04,03:48:56,114,km,2.8,Ml
+27 km al SO de OllagÃ¼e,-21.417 ,-68.414,2022-09-03,23:24:53,2022-09-04,03:24:53,142,km,2.9,Ml
+48 km al SO de Mina Collahuasi,-21.161 ,-68.953,2022-09-03,22:55:29,2022-09-04,02:55:29,110,km,2.7,Ml
+12 km al NO de Tocopilla,-22.038 ,-70.301,2022-09-03,21:16:42,2022-09-04,01:16:42,28,km,2.5,Ml
