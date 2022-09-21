@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# In[1]:
+
 
 # Importamos la librerias
 import requests
@@ -23,9 +25,15 @@ import time
 import os
 
 
+# In[2]:
+
+
 # Copiamos la url del periodico BIO BIO
 URL=requests.get("https://www.biobiochile.cl/lista/busca-2020/categorias/nacional")
 soup=BeautifulSoup(URL.text,'html.parser')
+
+
+# In[3]:
 
 
 # Creamos una variable que contengo los resultados de busqueda con beautiful soup
@@ -33,14 +41,23 @@ Titulares_Nacionales = soup.find("div", {"class": "results-container"})
 Titulares_Nacionales
 
 
+# In[4]:
+
+
 # Buscamos lo que hay en cada artículo de noticia
 Articulos = Titulares_Nacionales.find_all('article',{'class':'article article-horizontal article-with-square justify-content-between'})
 Articulos
 
 
+# In[5]:
+
+
 # Creamos el driver para utilizar selenium y poder extraer el número de visitas
-s = Service("C:\\Users\\ignac\\Downloads\\chromedriver.exe")
+s = Service('C:\\Users\\colon\\Documents\\Magister Data Science\\Web Scrapping\\Proyecto Bio Bio\\chromedriver.exe')
 driver = webdriver.Chrome(service=s)
+
+
+# In[6]:
 
 
 # Creamos un ciclo for para extraer la variables que queremos. Utilizamos Beautiful Soup y Selenium
@@ -64,83 +81,95 @@ for articulo in range(len(Articulos)):
        pass
 
 
+# In[7]:
+
+
 # Convertimos el scraper en un Dataframe 
 DF = pd.DataFrame(d,columns=('Headline','Autor','visitas','Fecha','Link'))
 
 
-# Separamos las Columnas Fecha y Hora
-DF[['Fecha','Hora']] = DF['Fecha'].str.split('|', expand = True)
-# Separamos las Columnas en Fecha y Año
-DF[['Fecha','Año']] = DF['Fecha'].str.split(',', expand= True)
+# In[8]:
 
 
-# Separamos las Columnas en Fecha y Año
-
-subDF = DF['Fecha'].str.split(' ', expand=True)
-subDF
+DF
 
 
-# Juntamos el sub data frame con el data frame original:
+# In[9]:
 
 
-finalDF = pd.concat([DF, subDF], axis=1)
-finalDF
+# Creamos una copia para no repetir el scrapper
+Df_copy = DF.copy()
 
 
-# Renombrando las nuevas columnas:
+# In[11]:
 
 
-finalDF.columns=["Headline", "Autor", "visitas", "Fecha", "Link", "Hora", "Año", "Dia_semana", "Dia_numerico", "Mes"]
+# Hacemos un Split a la columna Fecha
+Df_copy[['Fecha','Hora']] = Df_copy['Fecha'].str.split('|', expand = True)
+Df_copy[['Fecha','Año']] = Df_copy['Fecha'].str.split(',',expand=True)
+Df_copy[['Fecha','Día']] = Df_copy['Fecha'].str.split(' ',1,expand=True)
+Df_copy[['Día','Mes']] = Df_copy['Día'].str.split(' ',1,expand=True)
 
 
-#Ordenamos las Columnas
-finalDF.drop(['Fecha'], axis=1, inplace=True)
+# In[12]:
 
 
-df = finalDF
+# Creamoss la columna Date
+Df_copy['Date'] = Df_copy["Fecha"] +' '+ Df_copy["Día"] +' ' +Df_copy['Mes']+ ',' +Df_copy['Año']
 
 
-# Cambiar el tipo de variables
+# In[ ]:
 
 
-df['visitas'] = df['visitas'].apply(lambda x: str(x.split()[0].replace(',', '.')))
+#Convertimos las visitas en numeros enteros
+Df_copy['visitas'] = Df_copy['visitas'].str.replace('.', '').astype('int64')
 
 
-df['visitas'] = df['visitas'].astype(float)
+# In[15]:
 
 
-df['Año'] = df['Año'].astype(int)
+# Seleccionamos las columnas finales
+Df_copy = Df_copy[['Headline','Autor','visitas','Date','Link']]
 
 
-df['Headline'] = df['Headline'].astype(str)
+# In[26]:
 
 
-df['Autor'] = df['Autor'].astype(str)
+# Cambiamos el nombre a la columna Fecha
+Df_copy.columns = ['Headline', 'Autor', 'Visitas', 'Fecha','Link']
 
 
-df['Dia_semana']= df['Dia_semana'].astype(str)
+# In[28]:
 
 
-df['Dia_numerico']= df['Dia_numerico'].astype(float)
+#Visualizamos el Dataframe
+Df_copy.head(3)
 
 
-df['Mes']= df['Mes'].astype(str)
+# In[19]:
 
 
-# Ordenamos el dataframe por numero de visitas
+# Autores que generan más visitas 
+round(Df_copy.groupby('Autor').agg('visitas').sum().sort_values(ascending=False))
 
 
-Mas_vistas = df.head(10).sort_values(by='visitas',ascending=False)
+# In[20]:
 
 
-
-# Para saber la cantidad de filas y columnas:
-
-
-df.shape
+# Numero de articulos publicado por autores
+Df_copy['Autor'].value_counts()
 
 
-# Pasando a csv
+# In[23]:
 
 
-df.to_csv('Noticias_diarias.csv',encoding='utf-8-sig')
+# 10 noticias más visitadas del día
+Mas_vistas = Df_copy.head(10).sort_values(by='visitas',ascending=False)
+print(Mas_vistas[['Headline','visitas']])
+
+
+# In[24]:
+
+
+Df_copy.to_csv('AAAMartes_20.csv',encoding='utf-8-sig')
+
