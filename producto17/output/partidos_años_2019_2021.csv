@@ -1,0 +1,775 @@
+index,Fecha,Local,Visita,gol_local,gol_visita,gol_local_1t,gol_visita_1t,año
+0,22.11. 13:15,Cobresal,U. Española,3,2,(1),(0),2019
+1,17.10. 21:00,U. De Chile,Deportes Iquique,2,1,(1),(1),2019
+2,17.10. 18:30,Everton,Curicó Unido,2,1,(0),(0),2019
+3,16.10. 21:00,Colo Colo,Huachipato,2,2,(1),(0),2019
+4,16.10. 18:30,U. La Calera,U. Católica,1,0,(0),(0),2019
+5,15.10. 20:30,Antofagasta,Audax,1,0,(0),(0),2019
+6,15.10. 18:00,U. Española,Coquimbo,3,1,(1),(1),2019
+7,15.10. 15:30,Cobresal,Palestino,3,2,(0),(1),2019
+8,13.10. 12:30,O'Higgins,U. De Concepción,1,2,(1),(2),2019
+9,06.10. 20:00,Coquimbo,Audax,1,0,(0),(0),2019
+10,06.10. 17:30,U. Católica,Cobresal,5,0,(2),(0),2019
+11,06.10. 15:00,Palestino,Curicó Unido,4,2,(2),(2),2019
+12,06.10. 12:30,Deportes Iquique,Everton,0,0,(0),(0),2019
+13,05.10. 17:30,U. De Concepción,U. Española,1,1,(1),(1),2019
+14,05.10. 15:00,Colo Colo,U. De Chile,3,2,(0),(1),2019
+15,05.10. 12:00,Antofagasta,O'Higgins,3,1,(0),(0),2019
+16,04.10. 20:30,Huachipato,U. La Calera,1,2,(1),(0),2019
+17,29.09. 20:00,O'Higgins,U. La Calera,3,1,(1),(0),2019
+18,29.09. 17:30,Cobresal,Huachipato,1,1,(1),(1),2019
+19,29.09. 15:00,Audax,Colo Colo,2,4,(1),(2),2019
+20,28.09. 20:00,U. Española,Deportes Iquique,4,0,(1),(0),2019
+21,28.09. 17:30,Curicó Unido,U. Católica,1,4,(1),(2),2019
+22,28.09. 15:00,U. De Chile,Palestino,2,3,(2),(2),2019
+23,28.09. 12:30,Coquimbo,Antofagasta,1,1,(0),(0),2019
+24,27.09. 20:30,Everton,U. De Concepción,1,0,(0),(0),2019
+25,15.09. 20:00,U. La Calera,Antofagasta,2,3,(1),(2),2019
+26,15.09. 17:30,U. Católica,O'Higgins,0,0,(0),(0),2019
+27,15.09. 15:00,Cobresal,Everton,2,1,(2),(1),2019
+28,15.09. 12:30,U. De Concepción,Colo Colo,3,1,(1),(0),2019
+29,14.09. 17:30,U. Española,U. De Chile,1,1,(0),(0),2019
+30,14.09. 15:00,Deportes Iquique,Audax,1,3,(0),(1),2019
+31,14.09. 12:30,Palestino,Coquimbo,2,0,(0),(0),2019
+32,13.09. 19:30,Huachipato,Curicó Unido,2,0,(1),(0),2019
+33,01.09. 20:00,Colo Colo,Cobresal,0,2,(0),(1),2019
+34,01.09. 17:30,O'Higgins,Huachipato,0,3,(0),(2),2019
+35,01.09. 15:00,Antofagasta,U. Católica,1,2,(1),(1),2019
+36,01.09. 12:30,U. De Concepción,Palestino,0,0,(0),(0),2019
+37,31.08. 20:00,Audax,U. Española,3,2,(0),(0),2019
+38,31.08. 15:00,Coquimbo,U. De Chile,2,2,(1),(1),2019
+39,31.08. 12:30,Curicó Unido,Deportes Iquique,1,2,(0),(1),2019
+40,30.08. 19:30,U. La Calera,Everton,0,0,(0),(0),2019
+41,25.08. 17:30,Huachipato,Antofagasta,4,3,(1),(1),2019
+42,25.08. 15:00,U. De Chile,U. Católica,1,1,(0),(1),2019
+43,25.08. 12:00,Deportes Iquique,U. De Concepción,2,2,(1),(2),2019
+44,24.08. 20:30,Curicó Unido,Audax,2,2,(2),(1),2019
+45,24.08. 18:00,Everton,Coquimbo,0,2,(0),(0),2019
+46,24.08. 15:30,Palestino,Colo Colo,2,2,(1),(1),2019
+47,24.08. 12:30,Cobresal,U. La Calera,1,0,(0),(0),2019
+48,23.08. 19:30,U. Española,O'Higgins,0,1,(0),(0),2019
+49,18.08. 17:30,Audax,Palestino,2,3,(1),(0),2019
+50,18.08. 15:00,Antofagasta,Cobresal,2,0,(1),(0),2019
+51,18.08. 12:30,U. La Calera,U. De Chile,0,0,(0),(0),2019
+52,17.08. 20:00,U. De Concepción,Huachipato,1,1,(0),(1),2019
+53,17.08. 17:30,U. Católica,Everton,1,0,(0),(0),2019
+54,17.08. 15:00,Coquimbo,Curicó Unido,2,1,(2),(1),2019
+55,17.08. 12:30,O'Higgins,Deportes Iquique,4,1,(4),(0),2019
+56,16.08. 19:30,Colo Colo,U. Española,1,0,(1),(0),2019
+57,11.08. 17:30,U. Católica,Coquimbo,1,1,(1),(0),2019
+58,11.08. 15:00,O'Higgins,Colo Colo,1,0,(1),(0),2019
+59,11.08. 12:30,Palestino,U. La Calera,1,1,(1),(1),2019
+60,10.08. 20:00,Audax,Huachipato,0,1,(0),(1),2019
+61,10.08. 17:30,Everton,U. Española,1,0,(1),(0),2019
+62,10.08. 15:00,U. De Chile,Antofagasta,1,0,(0),(0),2019
+63,10.08. 12:30,Cobresal,Deportes Iquique,0,1,(0),(0),2019
+64,09.08. 19:30,Curicó Unido,U. De Concepción,4,2,(2),(1),2019
+65,04.08. 17:30,Colo Colo,Curicó Unido,0,1,(0),(1),2019
+66,04.08. 15:00,Antofagasta,Everton,1,1,(0),(1),2019
+67,04.08. 12:30,U. De Concepción,U. Católica,0,3,(0),(1),2019
+68,03.08. 20:00,U. De Chile,Audax,1,1,(1),(0),2019
+69,03.08. 17:30,Huachipato,Palestino,0,2,(0),(0),2019
+70,03.08. 15:00,Cobresal,O'Higgins,2,1,(1),(0),2019
+71,03.08. 12:30,Deportes Iquique,Coquimbo,0,1,(0),(0),2019
+72,02.08. 19:30,U. Española,U. La Calera,1,1,(0),(0),2019
+73,28.07. 20:00,U. La Calera,Curicó Unido,2,0,(1),(0),2019
+74,28.07. 17:30,Colo Colo,Everton,0,0,(0),(0),2019
+75,28.07. 15:00,Huachipato,U. Católica,0,1,(0),(0),2019
+76,28.07. 12:30,O'Higgins,Antofagasta,3,6,(0),(5),2019
+77,27.07. 20:00,Audax,Deportes Iquique,3,1,(0),(1),2019
+78,27.07. 15:00,Palestino,U. De Chile,1,1,(0),(1),2019
+79,27.07. 12:30,U. Española,Cobresal,1,3,(1),(2),2019
+80,26.07. 20:00,Coquimbo,U. De Concepción,2,2,(0),(1),2019
+81,13.06. 12:30,Everton,Cobresal,2,1,(1),(0),2019
+82,11.06. 20:30,U. Católica,U. Española,0,0,(0),(0),2019
+83,26.05. 17:30,U. De Concepción,O'Higgins,1,1,(0),(1),2019
+84,26.05. 15:00,Curicó Unido,Palestino,1,1,(0),(0),2019
+85,26.05. 12:30,Deportes Iquique,U. De Chile,2,4,(1),(2),2019
+86,25.05. 19:30,Colo Colo,Audax,3,0,(1),(0),2019
+87,25.05. 14:45,Antofagasta,U. La Calera,1,1,(0),(1),2019
+88,24.05. 20:30,Everton,Huachipato,0,0,(0),(0),2019
+89,24.05. 18:00,Cobresal,Coquimbo,4,1,(0),(0),2019
+90,19.05. 17:30,Audax,Curicó Unido,3,1,(1),(0),2019
+91,19.05. 15:00,Coquimbo,Deportes Iquique,1,1,(0),(0),2019
+92,19.05. 12:30,Huachipato,U. De Concepción,1,0,(0),(0),2019
+93,18.05. 18:30,O'Higgins,Everton,2,1,(0),(1),2019
+94,18.05. 12:00,U. De Chile,Colo Colo,1,1,(1),(0),2019
+95,17.05. 20:30,U. Católica,Antofagasta,5,1,(1),(1),2019
+96,17.05. 18:00,U. La Calera,U. Española,1,2,(1),(0),2019
+97,17.05. 15:30,Palestino,Cobresal,3,0,(2),(0),2019
+98,12.05. 20:00,U. De Chile,Coquimbo,1,1,(1),(1),2019
+99,12.05. 17:30,U. Española,U. De Concepción,1,0,(0),(0),2019
+100,12.05. 15:00,Cobresal,U. Católica,0,2,(0),(1),2019
+101,12.05. 12:00,Everton,Audax,0,2,(0),(1),2019
+102,11.05. 17:30,Colo Colo,Palestino,2,1,(0),(1),2019
+103,11.05. 15:00,Curicó Unido,O'Higgins,2,1,(0),(1),2019
+104,11.05. 12:30,Deportes Iquique,U. La Calera,1,0,(1),(0),2019
+105,10.05. 20:00,Antofagasta,Huachipato,0,1,(0),(1),2019
+106,05.05. 17:30,Audax,U. De Chile,3,1,(2),(0),2019
+107,05.05. 15:00,U. La Calera,Colo Colo,1,1,(0),(0),2019
+108,05.05. 12:30,Cobresal,Antofagasta,2,2,(2),(1),2019
+109,04.05. 20:30,Coquimbo,U. Española,2,0,(2),(0),2019
+110,04.05. 18:00,Huachipato,Deportes Iquique,1,1,(1),(0),2019
+111,04.05. 15:30,O'Higgins,U. Católica,1,0,(1),(0),2019
+112,03.05. 20:00,U. De Concepción,Curicó Unido,1,2,(0),(2),2019
+113,03.05. 16:00,Palestino,Everton,1,0,(0),(0),2019
+114,28.04. 20:00,Coquimbo,Palestino,2,2,(1),(0),2019
+115,28.04. 17:30,U. Española,Audax,0,2,(0),(2),2019
+116,28.04. 15:00,U. Católica,U. De Concepción,3,1,(1),(1),2019
+117,28.04. 12:30,U. La Calera,O'Higgins,2,0,(0),(0),2019
+118,27.04. 18:00,Curicó Unido,Huachipato,4,2,(2),(0),2019
+119,27.04. 15:30,Everton,U. De Chile,1,1,(0),(0),2019
+120,27.04. 12:30,Deportes Iquique,Cobresal,0,1,(0),(0),2019
+121,26.04. 20:30,Colo Colo,Antofagasta,1,0,(0),(0),2019
+122,21.04. 20:30,U. Española,Everton,0,4,(0),(1),2019
+123,21.04. 18:00,Antofagasta,Coquimbo,0,1,(0),(1),2019
+124,21.04. 15:30,U. De Chile,Curicó Unido,3,3,(1),(1),2019
+125,20.04. 20:00,Audax,U. La Calera,1,1,(0),(0),2019
+126,20.04. 17:30,Huachipato,Colo Colo,1,1,(0),(0),2019
+127,20.04. 15:00,Palestino,U. Católica,1,2,(0),(1),2019
+128,19.04. 18:00,O'Higgins,Cobresal,2,0,(1),(0),2019
+129,19.04. 15:30,U. De Concepción,Deportes Iquique,1,0,(1),(0),2019
+130,14.04. 20:30,Cobresal,U. De Concepción,1,0,(0),(0),2019
+131,14.04. 18:00,Antofagasta,Palestino,0,1,(0),(1),2019
+132,14.04. 12:00,U. Católica,U. De Chile,4,0,(0),(0),2019
+133,13.04. 21:00,U. La Calera,Huachipato,2,1,(2),(0),2019
+134,13.04. 18:00,Audax,Coquimbo,2,0,(1),(0),2019
+135,13.04. 15:30,Colo Colo,O'Higgins,3,2,(0),(2),2019
+136,13.04. 12:30,Deportes Iquique,U. Española,3,2,(0),(1),2019
+137,12.04. 20:00,Curicó Unido,Everton,2,2,(1),(1),2019
+138,07.04. 20:00,U. Española,Curicó Unido,2,1,(1),(0),2019
+139,07.04. 17:30,U. De Chile,U. La Calera,1,1,(1),(0),2019
+140,07.04. 15:00,Everton,U. Católica,1,2,(1),(1),2019
+141,07.04. 12:30,Deportes Iquique,Antofagasta,2,0,(0),(0),2019
+142,06.04. 18:30,U. De Concepción,Audax,1,0,(0),(0),2019
+143,06.04. 15:30,Coquimbo,Colo Colo,2,0,(0),(0),2019
+144,05.04. 20:00,Huachipato,Cobresal,3,1,(1),(1),2019
+145,05.04. 17:00,Palestino,O'Higgins,1,1,(1),(0),2019
+146,31.03. 20:30,Huachipato,Coquimbo,0,0,(0),(0),2019
+147,31.03. 18:00,U. Católica,Curicó Unido,0,0,(0),(0),2019
+148,31.03. 12:00,Antofagasta,U. De Chile,3,1,(1),(1),2019
+149,30.03. 20:30,O'Higgins,U. Española,0,2,(0),(1),2019
+150,30.03. 18:00,Colo Colo,Deportes Iquique,2,0,(0),(0),2019
+151,29.03. 18:30,U. La Calera,U. De Concepción,3,1,(1),(0),2019
+152,27.03. 17:30,Palestino,Audax,1,2,(0),(2),2019
+153,25.03. 20:00,U. De Concepción,Antofagasta,1,1,(1),(0),2019
+154,17.03. 20:30,Everton,Antofagasta,1,0,(1),(0),2019
+155,17.03. 18:15,Coquimbo,U. La Calera,1,1,(1),(0),2019
+156,17.03. 16:00,Deportes Iquique,Palestino,3,3,(1),(1),2019
+157,17.03. 12:00,Colo Colo,U. Católica,2,3,(0),(1),2019
+158,16.03. 20:30,Audax,O'Higgins,2,2,(1),(1),2019
+159,16.03. 18:00,U. De Concepción,U. De Chile,2,1,(0),(1),2019
+160,15.03. 20:30,U. Española,Huachipato,2,1,(1),(0),2019
+161,15.03. 18:00,Curicó Unido,Cobresal,3,1,(1),(1),2019
+162,10.03. 20:30,Antofagasta,Curicó Unido,1,1,(1),(1),2019
+163,10.03. 17:45,Cobresal,Colo Colo,0,0,(0),(0),2019
+164,10.03. 15:30,U. De Chile,U. Española,1,2,(1),(0),2019
+165,10.03. 12:00,Everton,Deportes Iquique,2,0,(0),(0),2019
+166,09.03. 20:00,U. Católica,U. La Calera,1,0,(0),(0),2019
+167,09.03. 17:30,Palestino,U. De Concepción,4,1,(1),(1),2019
+168,09.03. 12:00,Huachipato,Audax,2,0,(1),(0),2019
+169,08.03. 19:00,O'Higgins,Coquimbo,2,0,(0),(0),2019
+170,03.03. 21:00,U. La Calera,Cobresal,2,1,(1),(0),2019
+171,03.03. 18:30,Curicó Unido,Colo Colo,3,4,(1),(4),2019
+172,03.03. 12:00,Coquimbo,Everton,4,0,(1),(0),2019
+173,02.03. 20:30,U. De Chile,Huachipato,3,0,(3),(0),2019
+174,02.03. 18:00,U. Española,Palestino,1,0,(0),(0),2019
+175,02.03. 12:00,Deportes Iquique,O'Higgins,1,3,(0),(0),2019
+176,01.03. 21:00,Audax,U. Católica,0,2,(0),(0),2019
+177,24.02. 20:00,U. Católica,Deportes Iquique,0,1,(0),(0),2019
+178,24.02. 17:30,Palestino,Huachipato,3,1,(1),(0),2019
+179,24.02. 12:00,Cobresal,Audax,1,2,(0),(2),2019
+180,23.02. 20:30,Curicó Unido,Coquimbo,0,0,(0),(0),2019
+181,23.02. 18:00,O'Higgins,U. De Chile,1,0,(1),(0),2019
+182,23.02. 12:00,Everton,U. La Calera,1,2,(1),(1),2019
+183,22.02. 20:30,Colo Colo,U. De Concepción,1,0,(0),(0),2019
+184,22.02. 18:00,Antofagasta,U. Española,1,2,(1),(1),2019
+185,17.02. 21:30,Audax,Antofagasta,0,3,(0),(1),2019
+186,17.02. 19:00,U. Española,Colo Colo,1,3,(1),(1),2019
+187,17.02. 12:00,Huachipato,O'Higgins,2,1,(0),(0),2019
+188,16.02. 21:00,U. De Concepción,Everton,0,0,(0),(0),2019
+189,16.02. 18:30,U. De Chile,Cobresal,1,1,(1),(0),2019
+190,16.02. 12:00,Deportes Iquique,Curicó Unido,0,0,(0),(0),2019
+191,15.02. 20:30,Coquimbo,U. Católica,1,2,(1),(2),2019
+192,15.02. 18:00,U. La Calera,Palestino,2,0,(0),(0),2019
+0,17.02. 18:00,Colo Colo,U. De Concepción,1,0,(1),(0),2020
+1,15.02. 10:30,Cobresal,U. Española,4,1,(2),(1),2020
+2,14.02. 18:00,Deportes Iquique,S. Wanderers,2,0,(0),(0),2020
+3,14.02. 18:00,La Serena,Audax,0,2,(0),(0),2020
+4,14.02. 18:00,O'Higgins,Colo Colo,1,1,(0),(0),2020
+5,14.02. 18:00,Palestino,Coquimbo,2,2,(1),(1),2020
+6,14.02. 10:30,Everton,Huachipato,1,0,(1),(0),2020
+7,14.02. 10:30,U. De Concepción,U. Católica,1,2,(1),(0),2020
+8,13.02. 18:30,U. De Chile,Antofagasta,3,1,(2),(1),2020
+9,13.02. 18:30,U. La Calera,Curicó Unido,2,3,(0),(2),2020
+10,11.02. 21:00,Huachipato,Palestino,1,0,(0),(0),2020
+11,11.02. 18:30,Audax,Deportes Iquique,1,1,(0),(0),2020
+12,11.02. 18:30,Colo Colo,Cobresal,0,0,(0),(0),2020
+13,11.02. 18:30,Coquimbo,Everton,3,0,(1),(0),2020
+14,11.02. 18:30,S. Wanderers,U. De Concepción,1,1,(1),(0),2020
+15,10.02. 21:30,U. Católica,U. La Calera,0,0,(0),(0),2020
+16,10.02. 18:30,Curicó Unido,U. De Chile,0,0,(0),(0),2020
+17,10.02. 18:30,U. Española,La Serena,1,1,(0),(0),2020
+18,10.02. 10:30,Antofagasta,O'Higgins,1,0,(0),(0),2020
+19,07.02. 21:45,Cobresal,Huachipato,2,1,(0),(0),2020
+20,07.02. 17:00,U. De Concepción,Coquimbo,2,1,(2),(1),2020
+21,06.02. 21:30,Deportes Iquique,Colo Colo,0,0,(0),(0),2020
+22,06.02. 19:15,U. De Chile,U. Española,3,0,(0),(0),2020
+23,06.02. 17:00,Everton,Palestino,1,3,(0),(1),2020
+24,06.02. 10:30,O'Higgins,Audax,0,0,(0),(0),2020
+25,05.02. 21:30,Curicó Unido,S. Wanderers,1,3,(1),(1),2020
+26,05.02. 19:15,U. La Calera,Antofagasta,1,1,(0),(0),2020
+27,05.02. 17:00,La Serena,U. Católica,1,2,(0),(1),2020
+28,04.02. 20:00,Coquimbo,Cobresal,0,1,(0),(0),2020
+29,01.02. 21:00,Deportes Iquique,Coquimbo,2,2,(2),(1),2020
+30,31.01. 21:00,Curicó Unido,U. Española,2,4,(0),(2),2020
+31,31.01. 18:30,Colo Colo,U. La Calera,2,1,(0),(1),2020
+32,30.01. 19:00,O'Higgins,U. Católica,2,0,(1),(0),2020
+33,29.01. 19:00,Coquimbo,U. De Chile,0,1,(0),(0),2020
+34,28.01. 20:00,U. La Calera,Deportes Iquique,1,2,(1),(0),2020
+35,26.01. 20:00,U. Española,Coquimbo,0,1,(0),(1),2020
+36,25.01. 20:00,U. Católica,Palestino,2,3,(1),(1),2020
+37,24.01. 19:15,U. De Chile,Deportes Iquique,2,2,(1),(0),2020
+38,24.01. 17:00,La Serena,Curicó Unido,2,0,(0),(0),2020
+39,23.01. 20:30,Cobresal,U. La Calera,1,1,(1),(0),2020
+40,23.01. 18:00,Colo Colo,Coquimbo,2,1,(1),(1),2020
+41,20.01. 21:30,Coquimbo,Curicó Unido,0,0,(0),(0),2020
+42,19.01. 21:30,O'Higgins,U. De Concepción,0,0,(0),(0),2020
+43,19.01. 19:15,U. Católica,Everton,1,1,(1),(1),2020
+44,19.01. 17:00,Huachipato,U. Española,4,1,(3),(0),2020
+45,19.01. 10:30,Antofagasta,Deportes Iquique,3,1,(1),(1),2020
+46,18.01. 19:15,Audax,U. La Calera,1,3,(0),(1),2020
+47,18.01. 17:00,S. Wanderers,La Serena,0,0,(0),(0),2020
+48,18.01. 10:30,Palestino,Cobresal,3,2,(1),(1),2020
+49,17.01. 18:00,Colo Colo,U. De Chile,0,0,(0),(0),2020
+50,15.01. 21:30,Huachipato,S. Wanderers,4,0,(2),(0),2020
+51,15.01. 19:15,Curicó Unido,O'Higgins,1,3,(1),(0),2020
+52,15.01. 17:00,La Serena,U. La Calera,0,3,(0),(1),2020
+53,15.01. 10:30,Cobresal,Antofagasta,3,1,(1),(0),2020
+54,14.01. 21:30,U. Española,U. Católica,1,1,(0),(0),2020
+55,14.01. 19:15,U. De Chile,Palestino,1,1,(1),(1),2020
+56,14.01. 17:00,Everton,Audax,2,1,(2),(1),2020
+57,13.01. 17:00,U. De Concepción,Colo Colo,1,1,(0),(0),2020
+58,12.01. 10:30,O'Higgins,Deportes Iquique,2,2,(1),(1),2020
+59,11.01. 21:30,Audax,Huachipato,2,0,(0),(0),2020
+60,11.01. 19:15,S. Wanderers,Cobresal,1,0,(0),(0),2020
+61,11.01. 17:00,Antofagasta,La Serena,2,2,(1),(1),2020
+62,11.01. 10:30,Palestino,U. Española,2,2,(1),(2),2020
+63,10.01. 21:00,U. La Calera,U. De Concepción,1,2,(0),(1),2020
+64,10.01. 18:30,Colo Colo,Everton,1,0,(1),(0),2020
+65,10.01. 10:30,U. Católica,Curicó Unido,1,1,(0),(1),2020
+66,08.01. 10:30,Cobresal,Audax,1,2,(1),(1),2020
+67,07.01. 21:30,Deportes Iquique,U. Católica,0,1,(0),(0),2020
+68,07.01. 19:15,Huachipato,U. La Calera,4,3,(1),(1),2020
+69,07.01. 17:00,U. De Concepción,Palestino,1,1,(1),(0),2020
+70,07.01. 10:30,Curicó Unido,Antofagasta,2,0,(0),(0),2020
+71,06.01. 19:15,U. De Chile,O'Higgins,0,1,(0),(1),2020
+72,06.01. 17:00,La Serena,Everton,1,1,(1),(1),2020
+73,06.01. 10:30,S. Wanderers,Colo Colo,3,0,(2),(0),2020
+74,04.01. 21:30,Audax,U. Española,2,2,(0),(1),2020
+75,04.01. 19:15,U. Católica,Huachipato,3,0,(0),(0),2020
+76,04.01. 10:30,Palestino,Curicó Unido,4,2,(3),(1),2020
+77,03.01. 19:15,U. De Chile,U. De Concepción,2,0,(0),(0),2020
+78,03.01. 10:30,Antofagasta,Colo Colo,0,1,(0),(1),2020
+79,02.01. 19:15,U. La Calera,S. Wanderers,3,0,(2),(0),2020
+80,02.01. 17:00,Everton,Deportes Iquique,1,0,(1),(0),2020
+81,02.01. 10:30,O'Higgins,La Serena,1,1,(0),(1),2020
+82,30.12. 20:30,U. Católica,S. Wanderers,1,1,(1),(1),2020
+83,30.12. 10:30,U. La Calera,O'Higgins,0,1,(0),(0),2020
+84,28.12. 19:30,U. De Concepción,Everton,0,0,(0),(0),2020
+85,28.12. 17:00,Cobresal,U. De Chile,2,0,(1),(0),2020
+86,28.12. 10:30,Deportes Iquique,Palestino,0,2,(0),(0),2020
+87,27.12. 19:15,Audax,U. Católica,2,2,(0),(0),2020
+88,27.12. 17:00,Huachipato,Coquimbo,0,1,(0),(1),2020
+89,27.12. 10:30,U. Española,Antofagasta,1,1,(0),(1),2020
+90,26.12. 20:30,S. Wanderers,O'Higgins,1,0,(0),(0),2020
+91,23.12. 18:30,U. De Chile,U. Católica,0,0,(0),(0),2020
+92,23.12. 10:30,Coquimbo,Antofagasta,0,1,(0),(0),2020
+93,22.12. 10:30,Everton,Cobresal,3,0,(1),(0),2020
+94,21.12. 18:00,U. De Concepción,La Serena,0,2,(0),(0),2020
+95,20.12. 21:30,Coquimbo,O'Higgins,0,3,(0),(2),2020
+96,20.12. 19:15,U. De Chile,Huachipato,2,2,(2),(2),2020
+97,20.12. 17:00,Antofagasta,S. Wanderers,1,1,(1),(1),2020
+98,20.12. 10:30,Palestino,Audax,1,0,(1),(0),2020
+99,19.12. 18:00,U. Católica,Colo Colo,0,0,(0),(0),2020
+100,17.12. 19:30,Huachipato,Curicó Unido,1,0,(1),(0),2020
+101,17.12. 17:00,La Serena,U. De Chile,0,0,(0),(0),2020
+102,17.12. 10:30,Audax,Antofagasta,3,0,(2),(0),2020
+103,16.12. 20:30,Everton,U. Española,1,2,(1),(2),2020
+104,16.12. 18:00,Deportes Iquique,U. De Concepción,4,0,(3),(0),2020
+105,16.12. 10:30,Palestino,S. Wanderers,3,1,(0),(0),2020
+106,14.12. 18:00,Curicó Unido,Cobresal,0,1,(0),(0),2020
+107,14.12. 10:30,Antofagasta,Huachipato,2,1,(1),(0),2020
+108,13.12. 19:15,S. Wanderers,Everton,2,1,(0),(1),2020
+109,13.12. 17:00,La Serena,Coquimbo,1,0,(0),(0),2020
+110,12.12. 20:30,U. De Concepción,Audax,3,1,(1),(0),2020
+111,12.12. 18:00,U. Española,Colo Colo,1,2,(0),(1),2020
+112,10.12. 21:30,Everton,Curicó Unido,3,1,(1),(0),2020
+113,09.12. 18:30,Audax,U. De Chile,1,3,(0),(0),2020
+114,09.12. 10:30,Palestino,U. La Calera,3,1,(0),(1),2020
+115,08.12. 21:00,O'Higgins,Huachipato,2,1,(1),(0),2020
+116,08.12. 18:30,Colo Colo,La Serena,0,2,(0),(1),2020
+117,08.12. 15:45,Deportes Iquique,U. Española,1,1,(0),(0),2020
+118,08.12. 10:30,Cobresal,U. De Concepción,3,1,(1),(0),2020
+119,06.12. 19:30,U. La Calera,Everton,6,2,(3),(1),2020
+120,06.12. 10:30,S. Wanderers,Coquimbo,1,1,(0),(1),2020
+121,05.12. 17:00,Huachipato,Colo Colo,2,2,(1),(2),2020
+122,04.12. 17:00,La Serena,Deportes Iquique,1,0,(0),(0),2020
+123,04.12. 10:30,Cobresal,O'Higgins,1,1,(0),(0),2020
+124,03.12. 20:00,U. Española,U. De Concepción,1,1,(1),(0),2020
+125,03.12. 10:30,Curicó Unido,Audax,4,1,(2),(0),2020
+126,02.12. 10:30,Antofagasta,Palestino,1,1,(1),(1),2020
+127,25.11. 18:00,Colo Colo,Curicó Unido,0,2,(0),(1),2020
+128,24.11. 21:30,Audax,S. Wanderers,1,1,(0),(1),2020
+129,23.11. 21:30,U. Española,O'Higgins,0,2,(0),(0),2020
+130,23.11. 19:15,U. De Concepción,Huachipato,0,1,(0),(0),2020
+131,23.11. 17:00,Deportes Iquique,Cobresal,0,0,(0),(0),2020
+132,22.11. 21:30,U. Católica,Antofagasta,5,3,(3),(1),2020
+133,22.11. 19:15,Everton,U. De Chile,1,1,(1),(1),2020
+134,22.11. 10:30,Palestino,La Serena,1,3,(1),(1),2020
+135,21.11. 19:15,Coquimbo,U. La Calera,1,2,(0),(0),2020
+136,19.11. 21:00,S. Wanderers,U. Española,1,0,(0),(0),2020
+137,19.11. 18:30,Colo Colo,Audax,1,0,(0),(0),2020
+138,19.11. 16:15,Huachipato,Deportes Iquique,1,1,(1),(1),2020
+139,19.11. 10:30,Antofagasta,Everton,1,1,(1),(1),2020
+140,18.11. 21:30,Coquimbo,U. Católica,2,1,(1),(0),2020
+141,18.11. 19:15,U. La Calera,U. De Chile,1,0,(0),(0),2020
+142,18.11. 17:00,Cobresal,La Serena,1,2,(1),(1),2020
+143,18.11. 10:30,Curicó Unido,U. De Concepción,2,2,(2),(1),2020
+144,17.11. 10:30,O'Higgins,Palestino,1,0,(0),(0),2020
+145,15.11. 21:00,U. Católica,Cobresal,2,1,(0),(1),2020
+146,15.11. 18:30,U. De Chile,S. Wanderers,3,0,(1),(0),2020
+147,15.11. 16:00,La Serena,Huachipato,1,0,(0),(0),2020
+148,15.11. 11:00,U. De Concepción,Antofagasta,2,0,(1),(0),2020
+149,14.11. 21:00,Audax,Coquimbo,2,0,(1),(0),2020
+150,14.11. 18:30,U. Española,U. La Calera,3,2,(3),(0),2020
+151,14.11. 16:00,Deportes Iquique,Curicó Unido,1,2,(1),(2),2020
+152,14.11. 11:00,Palestino,Colo Colo,3,1,(1),(0),2020
+153,13.11. 13:30,Everton,O'Higgins,0,1,(0),(0),2020
+154,11.11. 16:00,Curicó Unido,U. Católica,3,2,(2),(0),2020
+155,10.11. 11:00,Colo Colo,Antofagasta,1,0,(0),(0),2020
+156,08.11. 16:00,Palestino,U. Católica,1,4,(1),(1),2020
+157,01.11. 18:30,U. Católica,La Serena,3,0,(1),(0),2020
+158,01.11. 16:00,Coquimbo,U. Española,1,1,(0),(0),2020
+159,31.10. 18:30,Audax,Everton,1,2,(1),(0),2020
+160,31.10. 16:00,Curicó Unido,Palestino,1,0,(0),(0),2020
+161,31.10. 13:30,Huachipato,O'Higgins,2,0,(0),(0),2020
+162,31.10. 11:00,Colo Colo,Deportes Iquique,0,2,(0),(2),2020
+163,30.10. 11:00,Antofagasta,U. La Calera,3,1,(2),(0),2020
+164,29.10. 16:00,U. De Concepción,U. De Chile,1,0,(0),(0),2020
+165,29.10. 13:30,Cobresal,S. Wanderers,1,0,(1),(0),2020
+166,28.10. 16:00,Everton,Colo Colo,1,1,(1),(0),2020
+167,21.10. 18:30,U. Española,Cobresal,1,0,(0),(0),2020
+168,21.10. 16:00,U. De Chile,Audax,2,2,(2),(0),2020
+169,21.10. 13:30,Coquimbo,U. De Concepción,0,2,(0),(1),2020
+170,21.10. 11:00,S. Wanderers,Antofagasta,2,1,(1),(0),2020
+171,20.10. 16:00,O'Higgins,Curicó Unido,2,2,(1),(0),2020
+172,20.10. 13:30,U. La Calera,Huachipato,3,0,(0),(0),2020
+173,20.10. 11:00,Deportes Iquique,La Serena,2,0,(1),(0),2020
+174,15.10. 18:30,Audax,O'Higgins,2,1,(1),(1),2020
+175,15.10. 16:00,Antofagasta,U. De Chile,1,0,(0),(0),2020
+176,15.10. 13:30,S. Wanderers,U. La Calera,0,3,(0),(0),2020
+177,15.10. 11:00,U. De Concepción,Deportes Iquique,1,1,(1),(1),2020
+178,14.10. 18:30,Colo Colo,U. Española,3,5,(3),(2),2020
+179,14.10. 16:00,Huachipato,Everton,1,0,(1),(0),2020
+180,14.10. 13:30,Cobresal,Coquimbo,0,1,(0),(1),2020
+181,14.10. 11:00,La Serena,Palestino,4,2,(2),(0),2020
+182,11.10. 18:30,U. De Chile,La Serena,3,0,(0),(0),2020
+183,11.10. 16:00,U. La Calera,Palestino,1,0,(0),(0),2020
+184,10.10. 18:30,U. Católica,U. De Concepción,1,1,(0),(1),2020
+185,10.10. 16:00,Everton,S. Wanderers,2,2,(1),(0),2020
+186,10.10. 13:30,Huachipato,Antofagasta,0,0,(0),(0),2020
+187,10.10. 11:00,Deportes Iquique,Audax,2,1,(2),(1),2020
+188,09.10. 18:00,Coquimbo,Colo Colo,2,2,(1),(0),2020
+189,09.10. 15:30,U. Española,Curicó Unido,2,1,(1),(1),2020
+190,08.10. 11:00,O'Higgins,Cobresal,0,2,(0),(1),2020
+191,04.10. 16:30,U. La Calera,Audax,3,2,(1),(1),2020
+192,04.10. 14:00,U. Católica,U. De Chile,3,0,(1),(0),2020
+193,03.10. 18:30,Colo Colo,Huachipato,0,1,(0),(0),2020
+194,03.10. 16:00,Curicó Unido,Everton,1,3,(0),(1),2020
+195,03.10. 13:30,Antofagasta,Cobresal,2,1,(0),(1),2020
+196,03.10. 11:00,La Serena,U. Española,0,2,(0),(0),2020
+197,02.10. 16:00,O'Higgins,Coquimbo,1,4,(0),(3),2020
+198,02.10. 11:00,S. Wanderers,Deportes Iquique,3,1,(2),(0),2020
+199,01.10. 13:30,Palestino,U. De Concepción,0,1,(0),(1),2020
+200,27.09. 16:00,U. Española,U. De Chile,3,1,(1),(1),2020
+201,26.09. 18:30,Audax,Curicó Unido,0,0,(0),(0),2020
+202,26.09. 16:00,Everton,U. Católica,2,2,(0),(0),2020
+203,25.09. 18:30,Huachipato,La Serena,1,1,(1),(1),2020
+204,25.09. 16:00,Coquimbo,S. Wanderers,2,1,(1),(0),2020
+205,24.09. 16:00,Cobresal,Palestino,2,1,(1),(0),2020
+206,24.09. 13:30,U. De Concepción,O'Higgins,1,4,(1),(2),2020
+207,24.09. 11:00,Deportes Iquique,U. La Calera,0,3,(0),(3),2020
+208,17.09. 11:00,Antofagasta,U. Española,2,0,(1),(0),2020
+209,16.09. 12:00,Palestino,Deportes Iquique,2,0,(0),(0),2020
+210,15.09. 16:00,Curicó Unido,Coquimbo,2,1,(1),(0),2020
+211,15.09. 11:00,La Serena,U. De Concepción,0,1,(0),(0),2020
+212,14.09. 16:00,U. De Chile,Cobresal,2,1,(1),(0),2020
+213,13.09. 18:30,O'Higgins,Everton,1,2,(1),(1),2020
+214,13.09. 16:00,U. Católica,Audax,3,0,(3),(0),2020
+215,13.09. 11:00,S. Wanderers,Huachipato,3,2,(0),(0),2020
+216,12.09. 18:30,U. La Calera,Colo Colo,0,0,(0),(0),2020
+217,10.09. 18:30,Everton,Antofagasta,0,0,(0),(0),2020
+218,10.09. 16:00,Deportes Iquique,U. De Chile,0,2,(0),(2),2020
+219,10.09. 11:00,Audax,La Serena,2,1,(0),(0),2020
+220,09.09. 18:30,Coquimbo,Palestino,1,0,(0),(0),2020
+221,09.09. 16:00,Colo Colo,O'Higgins,0,1,(0),(1),2020
+222,09.09. 13:30,Cobresal,Curicó Unido,4,0,(2),(0),2020
+223,09.09. 11:00,Huachipato,U. Católica,1,3,(0),(1),2020
+224,08.09. 18:30,U. Española,S. Wanderers,2,1,(2),(0),2020
+225,08.09. 11:00,U. De Concepción,U. La Calera,2,1,(1),(0),2020
+226,06.09. 14:00,U. De Chile,Colo Colo,1,1,(0),(1),2020
+227,06.09. 11:00,Antofagasta,Audax,2,2,(1),(0),2020
+228,05.09. 18:30,S. Wanderers,Curicó Unido,2,0,(2),(0),2020
+229,05.09. 14:30,U. Católica,Coquimbo,4,1,(3),(0),2020
+230,05.09. 11:00,Deportes Iquique,Huachipato,1,0,(0),(0),2020
+231,04.09. 18:30,La Serena,O'Higgins,1,1,(0),(1),2020
+232,04.09. 11:00,U. La Calera,Cobresal,2,2,(1),(2),2020
+233,03.09. 13:30,Palestino,Everton,1,0,(1),(0),2020
+234,03.09. 11:00,U. De Concepción,U. Española,2,3,(0),(0),2020
+235,01.09. 12:00,Coquimbo,Audax,0,0,(0),(0),2020
+236,30.08. 18:30,Curicó Unido,U. La Calera,0,2,(0),(0),2020
+237,30.08. 16:00,Palestino,U. De Chile,2,2,(0),(1),2020
+238,30.08. 10:30,O'Higgins,Antofagasta,0,1,(0),(1),2020
+239,29.08. 18:30,U. Católica,U. Española,0,1,(0),(1),2020
+240,29.08. 16:00,Coquimbo,Huachipato,1,2,(0),(0),2020
+241,29.08. 13:30,Colo Colo,S. Wanderers,2,3,(1),(1),2020
+242,15.03. 20:30,Audax,U. De Concepción,1,1,(1),(0),2020
+243,15.03. 18:00,U. Española,Huachipato,4,4,(3),(2),2020
+244,15.03. 12:00,Coquimbo,Deportes Iquique,0,3,(0),(1),2020
+245,14.03. 20:00,Everton,La Serena,0,0,(0),(0),2020
+246,14.03. 12:00,Cobresal,U. Católica,0,1,(0),(0),2020
+247,10.03. 20:30,Huachipato,Audax,2,1,(2),(0),2020
+248,10.03. 18:00,S. Wanderers,Palestino,1,2,(0),(0),2020
+249,09.03. 18:30,U. La Calera,Coquimbo,2,0,(1),(0),2020
+250,07.03. 20:00,Deportes Iquique,O'Higgins,1,0,(1),(0),2020
+251,07.03. 17:30,Antofagasta,Curicó Unido,0,0,(0),(0),2020
+252,07.03. 12:00,La Serena,Colo Colo,1,2,(0),(0),2020
+253,05.03. 20:30,U. De Concepción,Cobresal,2,2,(0),(1),2020
+254,05.03. 18:00,U. De Chile,Everton,0,0,(0),(0),2020
+255,03.03. 18:00,S. Wanderers,Audax,3,3,(2),(1),2020
+256,02.03. 20:30,Curicó Unido,Huachipato,1,0,(0),(0),2020
+257,01.03. 20:30,Palestino,Antofagasta,2,2,(0),(2),2020
+258,01.03. 18:00,O'Higgins,U. De Chile,2,3,(2),(1),2020
+259,01.03. 12:00,Coquimbo,La Serena,2,1,(1),(0),2020
+260,29.02. 20:30,U. Española,Everton,2,0,(0),(0),2020
+261,29.02. 18:00,Colo Colo,U. De Concepción,2,2,(2),(0),2020
+262,29.02. 12:00,Cobresal,Deportes Iquique,1,1,(0),(1),2020
+263,28.02. 18:30,U. La Calera,U. Católica,1,1,(1),(1),2020
+264,24.02. 20:30,O'Higgins,U. Española,1,3,(1),(2),2020
+265,24.02. 18:00,Curicó Unido,Colo Colo,1,0,(0),(0),2020
+266,23.02. 20:00,Audax,Palestino,0,1,(0),(0),2020
+267,23.02. 17:30,U. De Chile,Coquimbo,1,1,(0),(0),2020
+268,23.02. 12:00,La Serena,S. Wanderers,3,0,(2),(0),2020
+269,22.02. 20:30,Everton,U. La Calera,0,1,(0),(0),2020
+270,22.02. 12:00,Huachipato,Cobresal,1,0,(1),(0),2020
+271,21.02. 18:30,U. Católica,Deportes Iquique,3,1,(2),(0),2020
+272,21.02. 12:00,Antofagasta,U. De Concepción,1,1,(0),(1),2020
+273,17.02. 19:30,U. Española,Audax,1,2,(1),(2),2020
+274,16.02. 21:00,U. De Concepción,Curicó Unido,1,2,(0),(0),2020
+275,16.02. 18:00,Colo Colo,U. Católica,0,2,(0),(0),2020
+276,16.02. 12:00,Cobresal,Everton,1,1,(1),(1),2020
+277,15.02. 21:30,Deportes Iquique,Antofagasta,0,4,(0),(2),2020
+278,15.02. 17:30,Palestino,O'Higgins,0,0,(0),(0),2020
+279,15.02. 12:00,S. Wanderers,U. De Chile,1,2,(1),(0),2020
+280,14.02. 18:30,U. La Calera,La Serena,2,1,(1),(1),2020
+281,10.02. 20:30,Everton,Coquimbo,1,0,(0),(0),2020
+282,10.02. 18:00,O'Higgins,S. Wanderers,2,1,(1),(1),2020
+283,09.02. 20:30,U. Española,Palestino,1,1,(0),(1),2020
+284,09.02. 18:00,Audax,Colo Colo,2,1,(2),(0),2020
+285,09.02. 12:00,Antofagasta,U. Católica,2,3,(1),(2),2020
+286,08.02. 20:30,Curicó Unido,Deportes Iquique,1,0,(0),(0),2020
+287,08.02. 18:00,U. De Chile,U. La Calera,3,0,(1),(0),2020
+288,08.02. 12:00,Huachipato,U. De Concepción,1,1,(0),(1),2020
+289,07.02. 21:00,La Serena,Cobresal,1,2,(1),(1),2020
+290,03.02. 19:30,La Serena,Antofagasta,0,1,(0),(1),2020
+291,02.02. 20:30,Deportes Iquique,Everton,2,2,(2),(0),2020
+292,02.02. 18:00,U. Católica,O'Higgins,3,2,(1),(0),2020
+293,02.02. 12:00,Cobresal,Colo Colo,2,1,(0),(0),2020
+294,01.02. 17:30,Palestino,Huachipato,1,0,(1),(0),2020
+295,01.02. 17:30,U. De Chile,Curicó Unido,5,1,(2),(1),2020
+296,01.02. 12:00,U. De Concepción,S. Wanderers,0,2,(0),(1),2020
+297,31.01. 21:00,U. La Calera,U. Española,1,0,(1),(0),2020
+298,28.01. 20:30,Colo Colo,Palestino,3,0,(1),(0),2020
+299,28.01. 18:00,Curicó Unido,La Serena,1,0,(1),(0),2020
+300,26.01. 20:30,U. Española,Deportes Iquique,3,2,(0),(1),2020
+301,26.01. 18:00,Huachipato,U. De Chile,2,1,(0),(0),2020
+302,26.01. 12:00,S. Wanderers,U. Católica,0,3,(0),(1),2020
+303,25.01. 20:30,Audax,Cobresal,4,1,(1),(1),2020
+304,25.01. 12:00,Antofagasta,Coquimbo,2,1,(2),(0),2020
+305,24.01. 21:00,O'Higgins,U. La Calera,1,2,(0),(1),2020
+306,24.01. 18:30,Everton,U. De Concepción,2,1,(0),(1),2020
+0,26.01. 19:00,Huachipato,Copiapó,1,0,(0),(0),2021
+1,22.01. 18:00,Copiapó,Huachipato,2,3,(1),(2),2021
+2,05.12. 18:00,Audax,Curicó Unido,1,1,(0),(1),2021
+3,05.12. 18:00,Huachipato,Melipilla,3,1,(2),(1),2021
+4,05.12. 18:00,U. De Chile,U. La Calera,3,2,(0),(0),2021
+5,05.12. 18:00,U. Española,Cobresal,0,1,(0),(0),2021
+6,04.12. 18:00,Antofagasta,Colo Colo,1,0,(1),(0),2021
+7,04.12. 18:00,Everton,U. Católica,0,3,(0),(1),2021
+8,04.12. 18:00,La Serena,S. Wanderers,0,0,(0),(0),2021
+9,04.12. 18:00,Palestino,Ñublense,1,4,(1),(0),2021
+10,28.11. 18:00,Colo Colo,U. Española,0,1,(0),(0),2021
+11,28.11. 18:00,Curicó Unido,Palestino,1,1,(1),(0),2021
+12,28.11. 18:00,U. Católica,Huachipato,2,0,(2),(0),2021
+13,28.11. 18:00,U. La Calera,La Serena,1,2,(0),(1),2021
+14,28.11. 12:00,S. Wanderers,Audax,2,2,(0),(1),2021
+15,27.11. 18:00,Cobresal,U. De Chile,0,0,(0),(0),2021
+16,27.11. 18:00,Melipilla,Everton,1,0,(0),(0),2021
+17,27.11. 18:00,O'Higgins,Antofagasta,0,0,(0),(0),2021
+18,15.11. 20:00,U. De Chile,O'Higgins,0,0,(0),(0),2021
+19,15.11. 17:30,Huachipato,S. Wanderers,2,0,(0),(0),2021
+20,14.11. 18:30,Curicó Unido,Colo Colo,0,0,(0),(0),2021
+21,14.11. 16:00,Palestino,Cobresal,2,1,(0),(0),2021
+22,14.11. 12:30,Audax,Antofagasta,0,0,(0),(0),2021
+23,13.11. 21:00,Everton,U. La Calera,1,2,(1),(1),2021
+24,13.11. 15:30,La Serena,U. Católica,0,2,(0),(1),2021
+25,13.11. 12:30,Ñublense,U. Española,6,1,(3),(0),2021
+26,10.11. 19:00,Colo Colo,Melipilla,1,0,(0),(0),2021
+27,09.11. 19:00,S. Wanderers,Curicó Unido,0,3,(0),(1),2021
+28,08.11. 20:30,U. Española,Palestino,1,3,(0),(2),2021
+29,08.11. 18:00,Antofagasta,La Serena,0,0,(0),(0),2021
+30,07.11. 21:00,U. La Calera,Huachipato,0,2,(0),(0),2021
+31,07.11. 18:30,Cobresal,Everton,2,2,(2),(1),2021
+32,07.11. 16:00,O'Higgins,Ñublense,1,1,(1),(1),2021
+33,07.11. 12:00,U. Católica,U. De Chile,1,0,(0),(0),2021
+34,06.11. 18:00,Colo Colo,S. Wanderers,3,0,(2),(0),2021
+35,04.11. 20:30,Ñublense,U. De Chile,1,0,(0),(0),2021
+36,04.11. 18:00,U. Católica,Antofagasta,4,0,(1),(0),2021
+37,04.11. 15:30,Palestino,U. La Calera,1,2,(0),(1),2021
+38,03.11. 21:00,Curicó Unido,O'Higgins,0,2,(0),(0),2021
+39,03.11. 18:30,Huachipato,U. Española,1,0,(1),(0),2021
+40,03.11. 16:00,Melipilla,Cobresal,2,1,(1),(1),2021
+41,02.11. 21:00,Everton,Audax,1,2,(0),(1),2021
+42,31.10. 20:30,U. La Calera,Melipilla,2,3,(2),(2),2021
+43,31.10. 18:00,O'Higgins,U. Católica,1,3,(1),(0),2021
+44,31.10. 12:30,Antofagasta,Ñublense,2,1,(2),(0),2021
+45,30.10. 18:30,U. Española,Everton,3,2,(2),(1),2021
+46,30.10. 16:00,U. De Chile,Curicó Unido,1,2,(0),(0),2021
+47,29.10. 17:50,La Serena,Huachipato,2,2,(2),(0),2021
+48,29.10. 15:30,S. Wanderers,Palestino,1,1,(1),(1),2021
+49,28.10. 18:00,Audax,Colo Colo,2,0,(0),(0),2021
+50,26.10. 11:00,Cobresal,O'Higgins,2,3,(1),(1),2021
+51,25.10. 21:00,Curicó Unido,U. La Calera,1,1,(0),(0),2021
+52,25.10. 16:00,Palestino,La Serena,3,3,(2),(2),2021
+53,25.10. 12:30,S. Wanderers,Antofagasta,0,1,(0),(1),2021
+54,24.10. 20:00,Huachipato,Audax,0,0,(0),(0),2021
+55,24.10. 16:30,Colo Colo,U. Católica,2,1,(0),(1),2021
+56,24.10. 12:00,Melipilla,U. De Chile,3,0,(1),(0),2021
+57,23.10. 18:00,Ñublense,Everton,1,1,(1),(1),2021
+58,21.10. 21:00,U. La Calera,Cobresal,1,2,(1),(2),2021
+59,21.10. 18:30,U. De Chile,Palestino,0,1,(0),(0),2021
+60,21.10. 16:00,Antofagasta,U. Española,1,2,(1),(0),2021
+61,20.10. 21:00,Everton,Huachipato,1,0,(1),(0),2021
+62,20.10. 18:30,U. Católica,S. Wanderers,3,2,(3),(1),2021
+63,20.10. 14:00,La Serena,Colo Colo,1,4,(0),(2),2021
+64,19.10. 21:00,O'Higgins,Melipilla,1,2,(1),(1),2021
+65,19.10. 18:30,Audax,Ñublense,0,3,(0),(1),2021
+66,16.10. 20:00,Melipilla,La Serena,1,1,(1),(0),2021
+67,16.10. 17:30,U. Española,Curicó Unido,2,1,(1),(0),2021
+68,16.10. 15:00,S. Wanderers,Everton,2,1,(1),(1),2021
+69,16.10. 11:00,Cobresal,U. Católica,1,3,(1),(1),2021
+70,15.10. 21:00,Ñublense,U. La Calera,0,2,(0),(1),2021
+71,15.10. 18:30,U. De Chile,Audax,0,1,(0),(1),2021
+72,15.10. 16:00,Palestino,O'Higgins,2,2,(1),(1),2021
+73,15.10. 12:30,Huachipato,Antofagasta,0,1,(0),(1),2021
+74,11.10. 20:30,Curicó Unido,Ñublense,0,0,(0),(0),2021
+75,11.10. 16:00,O'Higgins,S. Wanderers,1,0,(1),(0),2021
+76,10.10. 14:00,La Serena,Cobresal,2,1,(2),(0),2021
+77,09.10. 20:30,Colo Colo,Huachipato,2,0,(0),(0),2021
+78,09.10. 18:00,Antofagasta,Melipilla,1,0,(0),(0),2021
+79,09.10. 15:30,Everton,U. De Chile,1,0,(0),(0),2021
+80,09.10. 12:30,Audax,Palestino,2,3,(0),(2),2021
+81,06.10. 20:30,U. Católica,U. Española,2,1,(1),(0),2021
+82,05.10. 20:30,Ñublense,La Serena,0,1,(0),(1),2021
+83,04.10. 21:00,Huachipato,Curicó Unido,1,4,(0),(0),2021
+84,04.10. 18:30,Melipilla,S. Wanderers,1,1,(1),(1),2021
+85,04.10. 11:00,Cobresal,Audax,1,2,(1),(2),2021
+86,03.10. 20:30,U. Española,O'Higgins,3,2,(1),(1),2021
+87,03.10. 18:00,U. De Chile,Antofagasta,2,2,(2),(0),2021
+88,03.10. 15:30,Palestino,Colo Colo,1,2,(1),(2),2021
+89,02.10. 20:30,U. La Calera,U. Católica,0,2,(0),(1),2021
+90,30.09. 21:00,Audax,U. Española,2,0,(1),(0),2021
+91,30.09. 18:30,Colo Colo,Ñublense,0,1,(0),(1),2021
+92,30.09. 16:00,Curicó Unido,Cobresal,1,0,(0),(0),2021
+93,29.09. 21:00,U. Católica,Melipilla,4,0,(1),(0),2021
+94,29.09. 18:30,Antofagasta,U. La Calera,1,3,(1),(2),2021
+95,29.09. 16:00,S. Wanderers,U. De Chile,2,1,(2),(0),2021
+96,28.09. 21:00,O'Higgins,Huachipato,2,0,(1),(0),2021
+97,28.09. 16:00,La Serena,Everton,0,2,(0),(1),2021
+98,26.09. 16:30,U. De Chile,Colo Colo,1,3,(0),(2),2021
+99,26.09. 12:00,Ñublense,S. Wanderers,1,2,(1),(0),2021
+100,25.09. 20:00,Everton,Curicó Unido,0,0,(0),(0),2021
+101,25.09. 17:30,Melipilla,Audax,1,1,(0),(0),2021
+102,25.09. 15:00,U. Española,La Serena,2,1,(2),(1),2021
+103,25.09. 12:00,Cobresal,Antofagasta,2,0,(2),(0),2021
+104,24.09. 21:00,U. La Calera,O'Higgins,2,0,(1),(0),2021
+105,24.09. 18:30,Huachipato,Palestino,1,1,(1),(1),2021
+106,17.09. 11:00,Cobresal,Huachipato,1,1,(1),(0),2021
+107,15.09. 16:00,Palestino,Melipilla,3,1,(3),(1),2021
+108,14.09. 19:00,Colo Colo,Everton,2,0,(0),(0),2021
+109,14.09. 14:00,La Serena,O'Higgins,2,0,(1),(0),2021
+110,13.09. 19:00,U. Española,U. De Chile,2,3,(1),(2),2021
+111,13.09. 16:30,Ñublense,Huachipato,2,2,(0),(2),2021
+112,12.09. 20:00,Curicó Unido,U. Católica,2,4,(2),(2),2021
+113,12.09. 17:30,Audax,U. La Calera,2,3,(2),(1),2021
+114,12.09. 15:00,S. Wanderers,Cobresal,2,1,(1),(1),2021
+115,08.09. 20:30,Everton,Palestino,1,0,(0),(0),2021
+116,08.09. 18:00,O'Higgins,Colo Colo,2,3,(1),(0),2021
+117,08.09. 15:30,U. La Calera,S. Wanderers,0,1,(0),(1),2021
+118,07.09. 20:00,U. Católica,Audax,3,1,(1),(0),2021
+119,07.09. 17:30,Antofagasta,Curicó Unido,1,1,(1),(1),2021
+120,07.09. 15:00,Melipilla,U. Española,0,3,(0),(2),2021
+121,06.09. 20:00,U. De Chile,La Serena,1,1,(0),(1),2021
+122,06.09. 11:00,Cobresal,Ñublense,4,1,(2),(0),2021
+123,30.08. 21:00,Curicó Unido,La Serena,2,0,(1),(0),2021
+124,30.08. 18:30,Audax,O'Higgins,1,0,(1),(0),2021
+125,29.08. 19:00,U. Española,U. La Calera,2,1,(0),(1),2021
+126,29.08. 16:30,Colo Colo,Cobresal,0,1,(0),(0),2021
+127,29.08. 14:00,Huachipato,U. De Chile,1,1,(0),(0),2021
+128,29.08. 11:30,Everton,Antofagasta,1,1,(0),(1),2021
+129,28.08. 20:00,Ñublense,Melipilla,3,0,(2),(0),2021
+130,28.08. 15:00,Palestino,U. Católica,3,0,(0),(0),2021
+131,26.08. 19:00,O'Higgins,Everton,1,0,(0),(0),2021
+132,26.08. 16:30,S. Wanderers,U. Española,1,2,(1),(1),2021
+133,26.08. 14:00,La Serena,Audax,0,2,(0),(0),2021
+134,25.08. 19:00,U. Católica,Ñublense,2,2,(0),(1),2021
+135,25.08. 16:30,U. La Calera,Colo Colo,1,1,(0),(1),2021
+136,25.08. 14:00,Antofagasta,Palestino,2,1,(2),(0),2021
+137,25.08. 11:30,Melipilla,Curicó Unido,1,1,(0),(0),2021
+138,22.08. 19:00,U. Católica,Everton,2,0,(1),(0),2021
+139,22.08. 16:30,U. La Calera,U. De Chile,1,4,(1),(3),2021
+140,22.08. 14:00,Melipilla,Huachipato,1,2,(1),(0),2021
+141,22.08. 11:00,Cobresal,U. Española,2,0,(1),(0),2021
+142,21.08. 19:00,Curicó Unido,Audax,2,2,(1),(1),2021
+143,21.08. 16:30,Colo Colo,Antofagasta,2,0,(0),(0),2021
+144,21.08. 14:00,Ñublense,Palestino,2,2,(1),(0),2021
+145,21.08. 11:30,S. Wanderers,La Serena,2,2,(2),(1),2021
+146,15.08. 19:00,Huachipato,U. Católica,2,1,(2),(1),2021
+147,15.08. 16:30,U. De Chile,Cobresal,0,2,(0),(1),2021
+148,15.08. 14:00,Palestino,Curicó Unido,0,2,(0),(0),2021
+149,14.08. 19:00,Everton,Melipilla,1,2,(1),(2),2021
+150,14.08. 16:30,U. Española,Colo Colo,0,1,(0),(0),2021
+151,14.08. 14:00,La Serena,U. La Calera,1,2,(0),(1),2021
+152,14.08. 11:30,Antofagasta,O'Higgins,2,1,(2),(0),2021
+153,13.08. 19:00,Audax,S. Wanderers,1,0,(0),(0),2021
+154,09.08. 11:00,Cobresal,Palestino,3,1,(1),(1),2021
+155,08.08. 20:00,U. La Calera,Everton,1,0,(1),(0),2021
+156,08.08. 17:30,Colo Colo,Curicó Unido,2,0,(1),(0),2021
+157,08.08. 15:00,Antofagasta,Audax,0,1,(0),(1),2021
+158,08.08. 12:30,S. Wanderers,Huachipato,1,4,(0),(1),2021
+159,07.08. 20:00,U. Católica,La Serena,4,3,(3),(1),2021
+160,07.08. 17:30,U. Española,Ñublense,3,2,(2),(1),2021
+161,07.08. 15:00,O'Higgins,U. De Chile,1,3,(0),(2),2021
+162,03.08. 20:30,Everton,Cobresal,3,0,(1),(0),2021
+163,02.08. 20:30,Curicó Unido,S. Wanderers,2,1,(1),(1),2021
+164,02.08. 18:00,Ñublense,O'Higgins,0,0,(0),(0),2021
+165,02.08. 14:30,La Serena,Antofagasta,1,1,(0),(0),2021
+166,01.08. 20:00,Melipilla,Colo Colo,2,4,(1),(0),2021
+167,01.08. 16:00,U. De Chile,U. Católica,2,1,(0),(0),2021
+168,01.08. 13:30,Palestino,U. Española,3,2,(0),(0),2021
+169,01.08. 11:00,Huachipato,U. La Calera,0,0,(0),(0),2021
+170,29.07. 19:00,U. De Chile,Ñublense,1,1,(0),(0),2021
+171,29.07. 15:00,S. Wanderers,Colo Colo,0,4,(0),(1),2021
+172,29.07. 12:30,Antofagasta,U. Católica,3,2,(1),(0),2021
+173,28.07. 20:30,U. La Calera,Palestino,2,1,(1),(1),2021
+174,28.07. 18:00,O'Higgins,Curicó Unido,2,2,(2),(2),2021
+175,28.07. 15:30,U. Española,Huachipato,3,1,(3),(0),2021
+176,28.07. 11:00,Cobresal,Melipilla,1,1,(0),(0),2021
+177,27.07. 19:00,Audax,Everton,0,2,(0),(0),2021
+178,25.07. 20:00,U. Católica,O'Higgins,3,0,(0),(0),2021
+179,25.07. 17:30,Curicó Unido,U. De Chile,1,2,(1),(0),2021
+180,25.07. 15:00,Palestino,S. Wanderers,2,0,(0),(0),2021
+181,25.07. 12:30,Huachipato,La Serena,0,0,(0),(0),2021
+182,24.07. 20:00,Colo Colo,Audax,1,1,(0),(0),2021
+183,24.07. 17:30,Melipilla,U. La Calera,3,3,(0),(3),2021
+184,24.07. 15:00,Ñublense,Antofagasta,0,0,(0),(0),2021
+185,23.07. 20:30,Everton,U. Española,2,0,(2),(0),2021
+186,20.07. 20:30,U. De Chile,Melipilla,2,0,(1),(0),2021
+187,20.07. 15:00,La Serena,Palestino,4,3,(1),(3),2021
+188,19.07. 20:30,Everton,Ñublense,0,0,(0),(0),2021
+189,19.07. 18:00,Audax,Huachipato,3,3,(2),(2),2021
+190,17.07. 16:00,U. Católica,Colo Colo,0,0,(0),(0),2021
+191,16.07. 20:30,U. La Calera,Curicó Unido,1,0,(1),(0),2021
+192,16.07. 12:30,Antofagasta,S. Wanderers,1,0,(0),(0),2021
+193,15.07. 20:00,O'Higgins,Cobresal,1,1,(1),(1),2021
+194,15.07. 12:30,Palestino,Huachipato,2,0,(1),(0),2021
+195,15.06. 12:30,Palestino,Audax,0,2,(0),(0),2021
+196,07.06. 20:30,Ñublense,Audax,1,0,(0),(0),2021
+197,06.06. 20:30,Melipilla,O'Higgins,3,1,(3),(0),2021
+198,06.06. 18:00,Colo Colo,La Serena,2,0,(0),(0),2021
+199,06.06. 11:30,U. Española,Antofagasta,1,1,(1),(1),2021
+200,05.06. 20:30,Huachipato,Everton,0,0,(0),(0),2021
+201,05.06. 15:30,Palestino,U. De Chile,0,0,(0),(0),2021
+202,05.06. 13:00,S. Wanderers,U. Católica,0,1,(0),(0),2021
+203,05.06. 10:30,Cobresal,U. La Calera,0,1,(0),(1),2021
+204,31.05. 20:30,Audax,U. De Chile,2,1,(0),(1),2021
+205,31.05. 18:00,U. La Calera,Ñublense,1,0,(0),(0),2021
+206,31.05. 15:30,Antofagasta,Huachipato,1,0,(1),(0),2021
+207,30.05. 19:00,U. Católica,Cobresal,2,1,(0),(1),2021
+208,30.05. 16:00,Everton,S. Wanderers,1,0,(0),(0),2021
+209,29.05. 17:30,O'Higgins,Palestino,1,0,(0),(0),2021
+210,29.05. 15:00,La Serena,Melipilla,5,1,(1),(1),2021
+211,28.05. 20:00,Curicó Unido,U. Española,1,2,(1),(1),2021
+212,23.05. 20:30,U. De Chile,Everton,0,1,(0),(0),2021
+213,23.05. 15:00,Huachipato,Colo Colo,0,2,(0),(1),2021
+214,23.05. 12:30,Melipilla,Antofagasta,1,1,(0),(1),2021
+215,22.05. 20:30,U. Española,U. Católica,3,2,(1),(0),2021
+216,22.05. 18:00,S. Wanderers,O'Higgins,0,0,(0),(0),2021
+217,22.05. 15:30,Ñublense,Curicó Unido,2,0,(1),(0),2021
+218,22.05. 11:00,Cobresal,La Serena,2,0,(0),(0),2021
+219,09.05. 18:00,Audax,Cobresal,0,0,(0),(0),2021
+220,09.05. 15:30,Antofagasta,U. De Chile,1,2,(0),(0),2021
+221,09.05. 12:00,Curicó Unido,Huachipato,2,2,(1),(2),2021
+222,08.05. 20:30,Colo Colo,Palestino,1,2,(1),(0),2021
+223,08.05. 18:00,S. Wanderers,Melipilla,0,3,(0),(1),2021
+224,08.05. 15:30,La Serena,Ñublense,1,0,(0),(0),2021
+225,08.05. 12:00,U. Católica,U. La Calera,3,0,(2),(0),2021
+226,07.05. 20:00,O'Higgins,U. Española,1,4,(0),(1),2021
+227,03.05. 20:30,U. De Chile,S. Wanderers,1,0,(1),(0),2021
+228,02.05. 18:00,Melipilla,U. Católica,2,0,(0),(0),2021
+229,02.05. 15:30,Huachipato,O'Higgins,0,1,(0),(0),2021
+230,02.05. 11:00,Cobresal,Curicó Unido,2,0,(1),(0),2021
+231,01.05. 18:00,Ñublense,Colo Colo,5,1,(1),(1),2021
+232,01.05. 15:30,U. Española,Audax,1,1,(0),(1),2021
+233,01.05. 12:30,U. La Calera,Antofagasta,2,1,(1),(1),2021
+234,30.04. 20:00,Everton,La Serena,0,4,(0),(1),2021
+235,26.04. 20:30,Audax,Melipilla,1,0,(1),(0),2021
+236,25.04. 16:00,Colo Colo,U. De Chile,1,0,(0),(0),2021
+237,24.04. 20:30,S. Wanderers,Ñublense,1,2,(1),(1),2021
+238,24.04. 18:00,O'Higgins,U. La Calera,1,0,(0),(0),2021
+239,24.04. 15:30,La Serena,U. Española,0,0,(0),(0),2021
+240,24.04. 12:00,Antofagasta,Cobresal,2,1,(1),(0),2021
+241,23.04. 20:00,Curicó Unido,Everton,1,1,(0),(1),2021
+242,19.04. 20:30,U. De Chile,U. Española,2,1,(0),(0),2021
+243,18.04. 15:00,Everton,Colo Colo,0,2,(0),(0),2021
+244,18.04. 11:00,Cobresal,S. Wanderers,2,1,(1),(0),2021
+245,17.04. 20:30,U. La Calera,Audax,1,1,(1),(0),2021
+246,17.04. 18:00,O'Higgins,La Serena,0,0,(0),(0),2021
+247,16.04. 20:30,U. Católica,Curicó Unido,2,1,(2),(0),2021
+248,16.04. 18:00,Huachipato,Ñublense,5,3,(1),(2),2021
+249,16.04. 15:30,Melipilla,Palestino,0,1,(0),(1),2021
+250,12.04. 17:15,Curicó Unido,Antofagasta,1,1,(1),(1),2021
+251,12.04. 15:00,Palestino,Everton,1,1,(0),(0),2021
+252,12.04. 12:00,Ñublense,Cobresal,3,1,(1),(1),2021
+253,11.04. 20:00,Colo Colo,O'Higgins,1,2,(1),(1),2021
+254,11.04. 17:30,S. Wanderers,U. La Calera,1,2,(1),(1),2021
+255,11.04. 15:00,La Serena,U. De Chile,0,0,(0),(0),2021
+256,10.04. 18:30,Audax,U. Católica,1,0,(0),(0),2021
+257,10.04. 16:00,U. Española,Melipilla,0,2,(0),(1),2021
+258,04.04. 21:30,O'Higgins,Audax,0,0,(0),(0),2021
+259,04.04. 19:15,U. Católica,Palestino,2,1,(1),(0),2021
+260,04.04. 17:00,La Serena,Curicó Unido,2,0,(0),(0),2021
+261,03.04. 20:30,Cobresal,Colo Colo,1,2,(0),(2),2021
+262,03.04. 18:00,U. De Chile,Huachipato,1,1,(0),(1),2021
+263,03.04. 11:00,Melipilla,Ñublense,1,1,(1),(0),2021
+264,02.04. 19:00,U. La Calera,U. Española,1,0,(0),(0),2021
+265,02.04. 16:00,Antofagasta,Everton,1,2,(0),(0),2021
+266,30.03. 20:00,Audax,La Serena,2,1,(1),(0),2021
+267,28.03. 19:30,Ñublense,U. Católica,0,1,(0),(1),2021
+268,28.03. 17:00,Huachipato,Cobresal,0,0,(0),(0),2021
+269,28.03. 10:45,Palestino,Antofagasta,2,4,(0),(3),2021
+270,27.03. 21:00,U. Española,S. Wanderers,3,1,(1),(1),2021
+271,27.03. 18:30,Colo Colo,U. La Calera,0,0,(0),(0),2021
+272,27.03. 16:00,Everton,O'Higgins,1,1,(1),(0),2021
+273,27.03. 11:00,Curicó Unido,Melipilla,2,0,(2),(0),2021
