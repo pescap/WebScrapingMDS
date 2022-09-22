@@ -26,6 +26,7 @@ while run:
 
         if str(soup) == "Not Found":
             run = False
+            print("Exiting while loop")
 
         state = None
 
@@ -44,7 +45,7 @@ while run:
             author = soup.find(
                 "a", attrs={"class": "author text-bold Link--secondary"}
             ).get_text()
-
+            print(f"author: {author}")
             assignees = (
                 soup.find("span", attrs={"class": "css-truncate js-issue-assignees"})
                 .get_text()
@@ -54,6 +55,7 @@ while run:
 
             if assignees == ["No", "one", "assigned"]:
                 assignees = ["No one assigned"]
+                print("No one assigned")
 
             for l in range(len(assignees)):
                 new_row = {
@@ -63,6 +65,9 @@ while run:
                         "assignees": assignees[l],
                     }
                 df = pd.concat([df, pd.DataFrame([new_row])], axis=0, ignore_index=True)
+    else:
+        print("Not an issue")
     issue += 1
-
+    print("#####################")
+print(df.shape)
 df.to_csv(name, index=False)
