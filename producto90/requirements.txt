@@ -1,10 +1,7 @@
 numpy
 pandas
-requests
 selenium
-xlrd
-webdriver
-WebDriverWait
+
 
 
 
