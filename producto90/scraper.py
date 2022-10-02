@@ -17,7 +17,7 @@ import os
 
 # Se define la ruta
 chromeOptions = webdriver.ChromeOptions()
-path = os.path.join(os.getcwd(), "output\\")
+path = os.path.join(os.getcwd(), "output/")
 # Se borra informacion irrelevante.
 for file in os.listdir(path):
     if 'vcfA2022-2022.csv' in file: 
@@ -41,7 +41,7 @@ for a in fondos:
     
     # Se define la ruta de descarga
     chromeOptions = webdriver.ChromeOptions()
-    path = os.path.join(os.getcwd(), "output\\")
+    path = os.path.join(os.getcwd(), "output/")
     prefs = {"download.default_directory" : path,  "directory_upgrade": True}
     chromeOptions.add_experimental_option("prefs",prefs)
     
