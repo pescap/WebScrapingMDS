@@ -1,12 +1,8 @@
-By
-ChromeDriverManager
-expected_conditions
 numpy
 os
 pandas
 requests
 selenium
-Select
 time
 xlrd
 webdriver
