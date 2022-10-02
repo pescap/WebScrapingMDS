@@ -47,6 +47,9 @@ for a in fondos:
     
     # Se define la ruta de descarga
     chromeOptions = webdriver.ChromeOptions()
+    chromeOptions.add_argument('--headless')
+    chromeOptions.add_argument('--no-sandbox')
+    chromeOptions.add_argument('--disable-dev-shm-usage')
     path = os.path.join(os.getcwd(), "output/")
     prefs = {"download.default_directory" : path,  "directory_upgrade": True}
     chromeOptions.add_experimental_option("prefs",prefs)
@@ -55,6 +58,9 @@ for a in fondos:
     
     # Se instala chromeDriverManager, se puede ajustar una vez se corre por primera vez
     driver = webdriver.Chrome(executable_path=ChromeDriverManager().install(), options = chromeOptions)
+    chromeOptions.add_argument('--headless')
+    chromeOptions.add_argument('--no-sandbox')
+    chromeOptions.add_argument('--disable-dev-shm-usage')
     driver.get(URL)
     
     # Se descargan los datos
