@@ -16,12 +16,13 @@ import time
 import os
 
 
+
+# Se define la ruta
+chromeOptions = webdriver.ChromeOptions()
 chromeOptions.add_argument('--headless')
 chromeOptions.add_argument('--no-sandbox')
 chromeOptions.add_argument('--disable-dev-shm-usage')
 
-# Se define la ruta
-chromeOptions = webdriver.ChromeOptions()
 path = os.path.join(os.getcwd(), "output/")
 # Se borra informacion irrelevante.
 for file in os.listdir(path):
