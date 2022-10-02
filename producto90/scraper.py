@@ -18,7 +18,7 @@ import os
 chrome_options = Opciones()
 chrome_options.add_argument('--headless')
 chrome_options.add_argument('--no-sandbox')
-chrome_options.add_argument('--disable-dev-shm-usage'
+chrome_options.add_argument('--disable-dev-shm-usage')
 
 # Se define la ruta
 chromeOptions = webdriver.ChromeOptions()
