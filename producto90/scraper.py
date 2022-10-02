@@ -15,6 +15,11 @@ import pandas as pd
 import time
 import os
 
+chrome_options = Opciones()
+chrome_options.add_argument('--headless')
+chrome_options.add_argument('--no-sandbox')
+chrome_options.add_argument('--disable-dev-shm-usage'
+
 # Se define la ruta
 chromeOptions = webdriver.ChromeOptions()
 path = os.path.join(os.getcwd(), "output/")
