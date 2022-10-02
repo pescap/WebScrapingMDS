@@ -1,5 +1,4 @@
 numpy
-os
 pandas
 requests
 selenium
