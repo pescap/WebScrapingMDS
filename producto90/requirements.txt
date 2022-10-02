@@ -2,6 +2,7 @@ numpy
 pandas
 selenium
 webdriver_manager
+ChromeDriver
 
 
 
