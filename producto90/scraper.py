@@ -59,5 +59,5 @@ for a in fondos:
     # Tiempo de descarga
     time.sleep(1)
     driver.back()
-    driver.close()
+driver.close()
 
